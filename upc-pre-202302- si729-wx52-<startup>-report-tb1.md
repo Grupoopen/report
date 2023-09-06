@@ -1,245 +1,227 @@
----
-__Advertisement :)__
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
 
-You will like those projects!
+<p align= center>
+<img src="https://lh3.googleusercontent.com/oLvCkQpe-XywIekpKTlPnD45eMyUhKm6496jB3dN2diRtU-rdrqPMM_hO8ItaGI7Sd81EVIucZrEjDtazBubOXqCObwmgOggNCv0vohK8bifq-DNCIecP0aHVtrP_wZx7qG6oZyF5VPjt9qB_HMcUa8" width="200"/>
+</p>
 
----
 
-# h1 Heading 
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+**<p style="text-align: center;">UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</p>**
+**<p style="text-align: center;">CARRERA:</p>**
+*<p style="text-align: center;">Ingeniería de Software</p>*
+**<p style="text-align: center;">CURSO:</p>**
+*<p style="text-align: center;">Desarrollo de Aplicaciones Open Source</p>*
+**<p style="text-align: center;">SECCIÓN:</p>**
+*<p style="text-align: center;">WX52</p>*
+**<p style="text-align: center;">FINAL PROYECT REPORT - TB1</p>**
+**<p style="text-align: center;">STARTUP:</p>**
+**<p style="text-align: center;"></p>**
+**<p style="text-align: center;">DOCENTE:</p>**
+*<p style="text-align: center;">Juan Antonio Flores Moroco</p>*
+**<p style="text-align: center;">GRUPO 02</p>**
+**<p style="text-align: center;">AUTORES:</p>**
+*<p style="text-align: center;">Doig Apostol, Andrés - U201712256</p>*
+*<p style="text-align: center;">Llatas Flores, Enrique Aldhair - U20201F172</p>*
+*<p style="text-align: center;">Carrasco Hernández, Florentino Josue - U202020727</p>*
+*<p style="text-align: center;">Cueva Elera, Erick Armando - U201910151</p>*
+*<p style="text-align: center;">Zamora Rivera, Ismael Sebastián - U</p>*
+*<p style="text-align: center;">Lima - Septiembre 2023</p>*
 
+<div style="page-break-after: always;"></div>
 
-## Horizontal Rules
 
-___
+# Registro de Versiones del Informe
 
----
+<p style="text-align: center;">06.09.23 - TB1</p>
 
-***
 
+# Student Outcome
 
-## Typographic replacements
 
-Enable typographer option to see result.
+<div style="page-break-after: always;"></div>
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+# Capítulo 1: Introducción
 
-test.. test... test..... test?..... test!....
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup
 
-!!!!!! ???? ,,  -- ---
+### 1.1.2. Perfiles de integrantes del equipo
 
-"Smartypants, double quotes" and 'single quotes'
+## 1.2. Solution Profile
 
+### 1.2.1. Antecedentes y problemática
 
-## Emphasis
+### 1.2.2. Lean UX Process
 
-**This is bold text**
+#### 1.2.2.1. Lean UX Problem Statements
+#### 1.2.2.2. Lean UX Assumptions
 
-__This is bold text__
+#### 1.2.2.3. Lean UX Hypothesis Statements
+#### 1.2.2.4. Lean UX Canvas
 
-*This is italic text*
+## 1.3. Segmentos objetivo
 
-_This is italic text_
 
-~~Strikethrough~~
+<div style="page-break-after: always;"></div>
 
+# Capítulo 2: Requierements Elicitation & Analysis
 
-## Blockquotes
+## 2.1. Competidores
 
+### 2.1.1. Análisis competitivo
 
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
+### 2.1.2. Estrategias y tácticas frente a competidores
 
+## 2.2. Entrevistas
 
-## Lists
+### 2.2.1. Diseño de entrevistas
 
-Unordered
+### 2.2.2. Registro de entrevistas
 
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
+### 2.2.3. Análisis de entrevistas
 
-Ordered
+## 2.3. Needfinding
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
+### 2.3.1. User Personas
 
+### 2.3.2. User Tast Matrix
 
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
+### 2.3.3. User Journey Mapping
 
-Start numbering with offset:
+### 2.3.4. Empathy Mapping
 
-57. foo
-1. bar
+### 2.3.5. As-Is Scenario Mapping
 
 
-## Code
+<div style="page-break-after: always;"></div>
 
-Inline `code`
+# Capítulo 3: Requirements Specification
 
-Indented code
+## 3.1. To-Be Scneario Mapping
 
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+## 3.2. User Stories
 
+## 3.3. Impact Mapping
 
-Block code "fences"
+## 3.4. Product Backlog
 
-```
-Sample text here...
-```
 
-Syntax highlighting
+<div style="page-break-after: always;"></div>
 
-``` js
-var foo = function (bar) {
-  return bar++;
-};
+# Capítulo 4: Product Design
 
-console.log(foo(5));
-```
+## 4.1. Style Guidelines
 
-## Tables
+### 4.1.1. General Style Guidelines
 
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+### 4.1.2. Web Style Guidelines
 
-Right aligned columns
+## 4.2. Information Architechture
 
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+### 4.2.1. Organization Systems
 
+### 4.2.2. Labeling Systems
 
-## Links
+### 4.2.3. SEO Tags and Meta Tags
 
-[link text](http://dev.nodeca.com)
+### 4.2.4. Searching Systems
 
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
+### 4.2.5. Navigation Systems
 
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+## 4.3. Landing Page UI Design
 
+### 4.3.1. Landing Page Wireframe
 
-## Images
+### 4.3.2. Landing Page Mock-Up
 
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+## 4.4. Web Applications UX/UI Design
 
-Like links, Images also have a footnote style syntax
+### 4.4.1. Web Applications Wireframes
 
-![Alt text][id]
+### 4.4.2. Web Applications Wireflow Diagrams
 
-With a reference later in the document defining the URL location:
+### 4.4.3. Web Applications Mock-Ups
 
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+### 4.4.4. Web Applications User Flow Diagrams
 
+## 4.5. Web Applications Prototyping
 
-## Plugins
+## 4.6. Domain-Driven Software Architecture
 
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
+### 4.6.1. Software Architecture Context Diagram
 
+### 4.6.2. Software Architecture Container Diagrams
+### 4.6.3. Software Architecture Components Diagrams
 
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
+## 4.7. Software Object-Oriented Design
 
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
+### 4.7.1. Class Diagrams
 
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
+### 4.7.2. Class Dictionary
 
+## 4.8. Database Design
 
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
+### 4.8.1. Database Diagram
 
-- 19^th^
-- H~2~O
 
 
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
+<div style="page-break-after: always;"></div>
 
-++Inserted text++
+# Capítulo 5: Product Implementation, Validation & Deployment
 
+## 5.1. Software Configuration Management
 
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
 
-==Marked text==
+### 5.1.1. Software Development Environment Configuration. 
 
+### 5.1.2. Source Code Management.
 
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+### 5.1.3. Source Code Style Guide & Conventions.
 
-Footnote 1 link[^first].
+### 5.1.4. Software Deployment Configuration.
 
-Footnote 2 link[^second].
+## 5.2. Landing Page, Services & Applications Implementation. 
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1
 
-Inline footnote^[Text of inline footnote] definition.
+#### 5.2.1.2. Sprint Backlog 1
+#### 5.2.1.3. Development Evidence for Spring Review
 
-Duplicated footnote reference[^second].
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-[^first]: Footnote **can have markup**
+#### 5.2.1.5. Execution Evidence for Sprint Review
 
-    and multiple paragraphs.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-[^second]: Footnote text.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
+## 5.3. Validation Interviews.
 
-Term 1
+### 5.3.1. Diseño de Entrevistas.
 
-:   Definition 1
-with lazy continuation.
+### 5.3.2. Registro de Entrevistas.
 
-Term 2 with *inline markup*
+### 5.3.3. Evaluaciones según heurísticas. 
 
-:   Definition 2
+## 5.4. Video About-the-Product.
 
-        { some code, part of Definition 2 }
 
-    Third paragraph of definition 2.
+<div style="page-break-after: always;"></div>
 
-_Compact style:_
+# Conclusiones
 
-Term 1
-  ~ Definition 1
+## Conclusiones y recomendaciones
 
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
+## Video About-the-Team
 
 
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
+<div style="page-break-after: always;"></div>
 
-This is HTML abbreviation example.
+# Bibliografía
 
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
-*[HTML]: Hyper Text Markup Language
 
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
+<div style="page-break-after: always;"></div>
 
-::: warning
-*here be dragons*
-:::
+# Anexos
