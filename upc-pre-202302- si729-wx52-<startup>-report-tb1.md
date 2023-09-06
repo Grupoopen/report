@@ -24,6 +24,9 @@
 *<p style="text-align: center;">Carrasco Hernández, Florentino Josue - U202020727</p>*
 *<p style="text-align: center;">Cueva Elera, Erick Armando - U201910151</p>*
 *<p style="text-align: center;">Zamora Rivera, Ismael Sebastián - U</p>*
+
+<br>
+
 *<p style="text-align: center;">Lima - Septiembre 2023</p>*
 
 <div style="page-break-after: always;"></div>
