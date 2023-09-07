@@ -337,6 +337,7 @@ El siguiente artefacto es la síntesis del Lean UX process realizado. Este sirve
 
 <div style="page-break-after: always;"></div>
 
+
 # Capítulo 2: Requierements Elicitation & Analysis
 
 ## 2.1. Competidores
