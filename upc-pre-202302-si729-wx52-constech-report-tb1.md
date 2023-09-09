@@ -35,13 +35,18 @@
 # Registro de Versiones del Informe
 
 
+| Versión | Fecha      | Autor                | Descripción de modificación                                                                              |
+| ------- | ---------- | -------------------- | -------------------------------------------------------------------------------------------------------- |
+| V1.0    | 09.09.2023 | Construction Systems | Se agregaron las siguientes secciones:<br>\- Contenido<br>\- Objetivo del estudiante<br>\- Capitulos 1-5 |
 
-<p style="text-align: center;">06.09.23 - TB1</p>
 
 
 # Student Outcome
 
-
+| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | Doig Apostol, Andrés<br>TB1<br><br>Como Team Leader he organizado y me he comunicado con mis companeros de trabajo. Para esta entrega se realizó el planteamiento del startup y sus reglas de negocio, para poder brindar el mejor servicio a nuestros segmentos objetivos.<br><br>Cueva Elera, Erick Armando<br>TB1<br><br>Asistencia a las reuniones realizadas para la definición del proyecto a desarrollar. | Doig Apostol, Andrés<br>TB1<br><br>Es importante una comunicación clara y efectiva para poder trabajar las diferentes ideas que uno tiene. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Doig Apostol, Andrés<br>TB1<br><br>Aplicamos lo aprendido durante los cursos anteriores y adicionalmente lo que nos explicó el profe en este curso para poder trabajar un planteamiento de nuestro proyecto de manera exitosa.<br><br>Cueva Elera, Erick Armando<br>TB1<br><br>Desarrollo del capitulo 2 del informe.                                                                                            | Doig Apostol, Andrés<br>TB1<br><br>Una escritura clara en la documentación ayuda el entendimiento para todo tipo de público/lector.        |
 <div style="page-break-after: always;"></div>
 
 
@@ -164,6 +169,7 @@ Visión: Ser líderes en el mercado peruano, en herramientas tecnológicas para 
 ### 1.1.2. Perfiles de integrantes del equipo
 
 Florentino Josue Carrasco Hernandez (U202020727)
+
 Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Responsable, proactivo, comunicativo, tolerante, empático y orientado a resultados. Tengo conocimientos en desarrollo web HTML, CSS, JavaScript.
 <p align= center>
 <img src="Img/Josue.jpg" width="200"/>
@@ -171,13 +177,36 @@ Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Apli
 
 
 <b>Llatas Flores,Enrique Aldhair (U20201f172)
+
 Ingeniería de Software</b>
+
 Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 6to ciclo de la carrera de Ingeniería de Software porque me apasiona el proceso que existe detrás del desarrollo de software .Me gustaría expandir mis conocimientos en la programación web y mobile.
 
 <p align= center>
 <img src="Img/Enrique.png" width="200"/>
 </p>
 
+
+Doig Apostol, Andrés (U201712256)
+
+Ingeniería de Software
+
+En el último año he estado trabajando en mi portafolio web, en el cual tengo varios proyectos por terminar. Además, tengo conocimientos en iOS development con Swift y estoy llevando un curso de Flutter para poder lanzar aplicaciones móviles en Android y iOS al mismo tiempo. 
+Soy puntual y aprendo rápido. Soy muy sincero y digo las cosas de manera transparente.
+
+<p align= center>
+<img src="Img/Andres.png" width="200"/>
+</p>
+
+Cueva Elera, Erick Armando (U201910151)
+
+Ingeniería de Software
+
+Tengo 21 años y actualmente me encuentro cursando el sexto ciclo de la carrera de Ingeniería de Software en la Universidad de Ciencias Aplicadas (UPC). Me gusta trabajar en equipo y brindar soluciones cuando más se requieran. Cuento con conocimientos en html, css y C++.
+
+<p align= center>
+<img src="Img/Erick.jpg" width="200"/>
+</p>
 
 
 ## 1.2. Solution Profile
