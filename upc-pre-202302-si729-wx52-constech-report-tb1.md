@@ -673,6 +673,11 @@ En la sección “Projects” damos información de nuestros proyectos realizado
 ### 4.3.1. Landing Page Wireframe
 
 ### 4.3.2. Landing Page Mock-Up
+![Alt text](Img/1l.png)
+![Alt text](Img/2l.png)
+![Alt text](Img/3l.png)
+![Alt text](Img/4l.png)
+![Alt text](Img/5l.png)
 
 ## 4.4. Web Applications UX/UI Design
 
