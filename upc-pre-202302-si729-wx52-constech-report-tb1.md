@@ -372,7 +372,14 @@ El siguiente artefacto es la síntesis del Lean UX process realizado. Este sirve
 # Capítulo 3: Requirements Specification
 
 ## 3.1. To-Be Scneario Mapping
-
+<b>To-Be Scenario Mapping-Empresa</b><br>
+<p align= left>
+<img src="Img/AsIs Empresa.png" width="200"/>
+</p>
+<b>To-Be Scenario Mapping-Cliente</b><br>
+<p align= left>
+<img src="Img/AsIs Cliente.png" width="200"/>
+</p>
 ## 3.2. User Stories
 
 ## 3.3. Impact Mapping
