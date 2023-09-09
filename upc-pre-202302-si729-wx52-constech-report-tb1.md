@@ -403,7 +403,7 @@ En la paleta de colores tenemos los dos colores principales de tono verdoso, y a
 </p>
 <b>Nuestra Tipografía</b><br>
 Hemos seleccionado la fuente Helvética por ser una de las más utilizadas para que el usuario se sienta familiarizado al leer los diferentes contenidos de nuestros productos, ya sea el Landing Page o la Aplicación Web en sí.
-
+<br>
 <p align= Center>
 <img src="Img/Typografia.png" width="600"/>
 </p>
@@ -469,10 +469,10 @@ En la sección “Projects” damos información de nuestros proyectos realizado
 
 ### 4.4.1. Web Applications Wireframes
 <p align= Center>
-<img src="Img/ux.png" width="700"/>
+<img src="Img/UX.png" width="700"/>
 </p>
 <p align= Center>
-<img src="Img/ux2.png" width="700"/>
+<img src="Img/UX2.png" width="700"/>
 </p>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
@@ -480,13 +480,13 @@ En la sección “Projects” damos información de nuestros proyectos realizado
 ### 4.4.3. Web Applications Mock-Ups
 
 <p align= Center>
-<img src="Img/login.png" width="700"/>
+<img src="Img/Login.png" width="700"/>
 </p>
 <p align= Center>
-<img src="Img/register.png" width="700"/>
+<img src="Img/Register.png" width="700"/>
 </p>
 <p align= Center>
-<img src="Img/home.png" width="700"/>
+<img src="Img/Home.png" width="700"/>
 </p>
 <p align= Center>
 <img src="Img/Messages.png" width="700"/>
