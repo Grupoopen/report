@@ -399,8 +399,33 @@ Hemos desarrollado los siguientes user stories para nuestra aplicación.
 
 ## 3.3. Impact Mapping
 
+<b>Empresa</b><br>
+
+<p align= left>
+<img src="Img/Impact Empresa.png" width="200"/>
+</p>
+
+<b>Cliente</b><br>
+
+<p align= left>
+<img src="Img/Impact Cliente.png" width="200"/>
+</p>
+
 ## 3.4. Product Backlog
 
+| #Orden | User Story ID | Titulo                                                               | Descripcion                                                                                                                                                                                                                                                                                                   | Stories point  |
+|--------|---------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+|     1  |     UC01      | Registro Cliente                                                     | Como usuario cliente quiero registrarme en la aplicación para acceder a los servicios que ofrece la aplicación Given que el usuario está en el landing page  When selecciona “registrarse como cliente” Then se le notificara que su registro como cliente ha sido exitosa                                    |        3       |
+| 2      | UCD01         | Registro como Empresa                                                | Como empresa quiero registrarme para poder brindar mis servicios Given que la empresa está en el landing page  When selecciona “registrarse como empresa” Then se le notificara que su registro como empresa ha sido exitosa                                                                                  |        3       |
+| 3      | UC02          | Observar el progreso de mi proyecto                                  | Como cliente quiero saber cómo se encuentra el progreso del proyecto por el cual he pagado Given que el usuario está en la página central  When selecciona su proyecto y selecciona la opción de progreso de mi proyecto Then el sistema mostrara un gráfico con un avance y cambios que hubo en el proyecto  |        8       |
+| 4      | UC03          | Visualizar las diferentes empresas que realizan diferentes proyectos | Como cliente quiero ver varias opciones para poder realizar mi proyecto                                                                                                                                                                                                                                       |        8       |
+| 5      | UC04          | Feedback sobre el trabajo realizado                                  | Como cliente quiero dar una opinión acerca de cómo me siento con el trabajo realizado                                                                                                                                                                                                                         |        2       |
+| 6      | UCD02         | Observar el feedback de mi servicio brindado                         | Como empresa quiero observar los comentarios de mis clientes                                                                                                                                                                                                                                                  |        2       |
+| 7      | UCD03         | Ingresar datos de servicio de la empresa                             | Como empresa quiero brindar más información sobre nosotros y certificaciones                                                                                                                                                                                                                                  |        3       |
+| 8      | UC05          | Ver el estado del material                                           | Como cliente quiero cambiar el tipo de material en construcción                                                                                                                                                                                                                                               |        5       |
+| 9      | UC06          | Solicitud de cambios y observaciones                                 | Como cliente quiero realizar observaciones sobre mi proyecto y si es posible realizar una solicitud de cambio                                                                                                                                                                                                 |        5       |
+|        |               |                                                                      |                                                                                                                                                                                                                                                                                                               |                |
+|        |               |                                                                      |                                                                                                                                                                                                                                                                                                               |                |
 
 <div style="page-break-after: always;"></div>
 
