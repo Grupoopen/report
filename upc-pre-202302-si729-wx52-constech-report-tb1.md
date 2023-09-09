@@ -597,28 +597,271 @@ A continuación, se muestra el diagrama de base de datos en base a nuestro diagr
 
 ## 5.1. Software Configuration Management
 
+| **Landing Page** | **Backend** | **Frontend** |
+|------------------|------------|--------------|
+
+Project Management
+
+Para organizar nuestras tareas y mantener un registro de lo pendiente y lo completado, hemos utilizado Google Drive como nuestro centro principal de organización. Además, hemos empleado la herramienta Trello para establecer hitos y plazos que nos ayuden a llevar un seguimiento más detallado de nuestras tareas. En casos de consultas o dudas, realizamos llamadas grupales utilizando Teams.
+
+Requirements Management
+
+Para garantizar la calidad y la coherencia en nuestro proyecto, cada estudiante responsable de una parte designada somete su trabajo al criterio de todos. Esto implica una revisión conjunta y la sugerencia de posibles cambios con el objetivo de reducir o evitar errores antes de la presentación del proyecto.
+
+Product UX/UI Design
+
+En la etapa de diseño de producto, hemos empleado la herramienta Figma para crear wireframes de alta fidelidad y mockups. Además, utilizamos Figma para elaborar el prototipo de la aplicación web y móvil, asegurando así una experiencia de usuario óptima.
+
+Software Development
+
+Para la implementación de nuestro proyecto, hemos utilizado las siguientes tecnologías:
+- C# (Backend)
+- Vue.js (Frontend)
+
+Software Deployment
+
+Hemos optado por GitHub como plataforma de despliegue para nuestro landing page, lo que nos permite visualizar y probar la presentación de nuestro trabajo de manera interactiva.
+
+Software Documentation
+
+GitHub, una empresa sin fines de lucro, es nuestra elección para el almacenamiento en la nube de nuestros repositorios. En nuestro proyecto, GitHub potencia la colaboración entre los miembros del equipo, permitiéndonos trabajar con repositorios remotos que albergan los distintos proyectos del startup. Estos proyectos incluyen la Landing Page, la SPA (Aplicación de Página Única) y el Backend del servidor. Cada miembro del equipo se encarga de una parte específica del proyecto, lo que nos permite trabajar de manera modular y eficiente.
 
 ### 5.1.1. Software Development Environment Configuration. 
 
+Despliegue de Landing Page
+
+A continuación, se describen los pasos necesarios para el despliegue de un Landing Page:
+
+**Paso 1: Preparación de Repositorio**
+
+Asegúrate de que todos los archivos y carpetas necesarios estén disponibles en un repositorio de GitHub. Es importante priorizar el archivo `index.html`, ya que se reconocerá como el archivo principal para la ejecución del despliegue.
+
+**Paso 2: Configuración de Deployment**
+
+2.1. Accede a la configuración de tu repositorio en GitHub.
+2.2. Navega hasta la sección "Settings" (Configuración).
+2.3. En el menú lateral, selecciona "Pages" (Páginas).
+
+**Paso 3: Especificación de la Rama**
+
+3.1. En la sección de "GitHub Pages," busca la opción para especificar la rama del proyecto que deseas desplegar. Puede ser la rama principal o la rama específica que contiene tu Landing Page.
+3.2. Selecciona la rama adecuada en el menú desplegable.
+
+**Paso 4: Guardar la Configuración**
+
+4.1. Asegúrate de haber guardado los cambios realizados en la configuración. Es posible que debas buscar un botón o enlace con la etiqueta "Save" (Guardar).
+4.2. Una vez que hayas guardado la configuración, espera a que el sistema realice el despliegue automáticamente.
+
+Con estos pasos, habrás configurado correctamente el despliegue de tu Landing Page en GitHub Pages. El sitio estará disponible públicamente en la dirección proporcionada por GitHub, y podrás acceder a él una vez que el proceso de despliegue se haya completado.
 ### 5.1.2. Source Code Management.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+**Semantic Versioning**
+
+Las siguientes convenciones de nombramiento de versiones se basaron en el artículo Semantic Versioning 2.0.0 como referencia:
+
+- Cada número de versión debe seguir el formato X.Y.Z, compuesto únicamente por números enteros no negativos. Donde X representa la versión principal, Y la versión secundaria, y Z la versión de parche.
+- La versión inicial debe tener el formato 0.X.Y.
+- La versión de parche Z debe incrementarse solo si se corrigen errores compatibles con versiones anteriores.
+- La versión secundaria Y debe aumentar cuando se introduce una nueva funcionalidad compatible con versiones anteriores o se realizan mejoras en el código privado. También puede incluir cambios en la versión de parche, pero cada vez que se incremente la versión secundaria, la versión de parche debe reiniciarse a 0.
+- La versión principal X debe incrementarse cuando se introducen funcionalidades incompatibles con versiones anteriores. También es posible realizar algunos cambios y correcciones en el nivel de parche. En este caso, tanto la versión de parche como la versión secundaria deben reiniciarse a 0.
+
+**Conventional Commits**
+
+Para las convenciones de los commits, nos basamos en el artículo Conventional Commits 1.0.0. Se debe seguir la siguiente estructura para un commit:
+
+```bash
+git commit -m "<type>[optional scope]: <title>" -m "<description>"
+```
+
+Tipos:
+
+- `add`: Usado para indicar la adición de archivos o carpetas.
+- `fix`: Utilizado para confirmar la corrección de errores en el código.
+- `feat`: Se emplea cuando se agrega una nueva funcionalidad.
+- `test`: Indica la adición de archivos de prueba.
+- `BREAKING CHANGE`: Se utiliza para confirmar cambios importantes en el código.
+
+El campo `[optional scope]` se utiliza únicamente en las ramas `release`, `hotfix`, y `master` para indicar la versión del producto.
+
+HTML
+
+Para las convenciones de HTML, se recomienda:
+
+- Utilizar nombres en minúsculas para los elementos HTML.
+- Cerrar todos los elementos HTML.
+- Usar minúsculas para los nombres de atributos HTML.
+- Siempre especificar `alt`, `width`, y `height` para las imágenes.
+- Evitar espacios y signos de igual entre las entidades HTML.
+- Separar palabras en ID y clases con guiones.
+- Colocar las declaraciones en orden alfabético.
+- Separar selectores y declaraciones en nuevas líneas.
+
+Para obtener más información sobre las convenciones de HTML, puedes consultar [este enlace](https://www.w3schools.com/html/html5_syntax.asp).
+
+CSS
+
+Para las convenciones de CSS, se recomienda:
+
+- Usar nombres significativos para clases y ID que reflejen el propósito del elemento.
+- Utilizar nombres cortos pero descriptivos para ID y clases.
+- Emplear propiedades CSS abreviadas siempre que sea posible.
+- Evitar unidades después de usar 0 en valores que lo requieran.
+- Separar palabras en ID y clases con guiones.
+- Colocar las declaraciones en orden alfabético.
+- Separar selectores y declaraciones en nuevas líneas.
+
+Puedes obtener más información sobre las convenciones de CSS en [este enlace](https://google.github.io/styleguide/htmlcssguide.html#CSS).
+
+JavaScript
+
+En JavaScript, se recomienda:
+
+- Usar la sintaxis expandida con llaves de apertura y cierre en líneas separadas.
+- Utilizar `lowerCamelCase` para nombrar variables.
+- Declarar variables con `let` y `const`, evitando `var`.
+- Usar siempre la igualdad estricta.
+- Nombrar funciones con `lowerCamelCase`.
+- Crear objetos utilizando literales de objetos.
+- Usar la sintaxis de clase de ES para definir clases.
+- Crear arrays utilizando literales de arrays.
+
+Puedes obtener más detalles sobre las convenciones de JavaScript en [este enlace](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript#creating_arrays).
+
+TypeScript
+
+En TypeScript, se sugiere:
+
+- No usar el modificador `public` al declarar atributos, funciones o métodos públicos.
+- Siempre utilizar paréntesis al llamar a constructores, incluso si no reciben parámetros.
+- Evitar campos privados y en su lugar utilizar anotaciones de visibilidad de TypeScript.
+- Usar getters y setters para controlar la visibilidad de los detalles de implementación internos.
+- No usar el constructor `Array()`, en su lugar, utilizar notación de corchetes o `Array.from()`.
+
+Puedes obtener más información sobre las convenciones de TypeScript en la [documentación de TypeScript](https://www.typescriptlang.org/docs/handbook/declaration-files/by-example.html).
+
+**Gherkin:**
+
+| **Sintaxis** | **Propósito** |
+|--------------|---------------|
+| `FEATURE`    | Proporciona una descripción de alto nivel de una función de software y agrupa SCENARIOs relacionados. |
+| `SCENARIO` o `EXAMPLE` | Ejemplo concreto que contiene una regla de negocio y sigue el patrón 'Given-When-Then'. |
+| `GIVEN`      | Describe el contexto inicial del sistema, estableciendo el escenario del escenario. Su propósito es configurar el sistema en un estado concreto antes de que el usuario o sistema externo interactúe con él. |
+| `WHEN`       | Describe un evento o acción que ocurre en el sistema, ya sea a través de la interacción del usuario o desencadenado por otro sistema. |
+| `THEN`       | Describe el resultado esperado del escenario y utiliza aserciones para comparar el resultado real con el resultado esperado. |
+| `AND`        | Se utiliza para agregar condiciones adicionales en cualquier parte de los patrones `Given`, `When` o `Then`. |
+| `BUT`        | Similar a `AND`, se usa para agregar condiciones adicionales en los patrones `Given`, `When` o `Then`. |
+| `BACKGROUND` | Utilizado cuando se repiten los mismos `GIVEN` en muchos `SCENARIOs` de una `FEATURE`. Permite agruparlos en un contexto común para evitar repeticiones innecesarias. |
+
+
 ### 5.1.4. Software Deployment Configuration.
+Para llevar a cabo el desarrollo del proyecto, hemos empleado una variedad de herramientas que desempeñan roles específicos en la creación de diferentes secciones de este informe. A continuación, proporcionamos los nombres de los programas utilizados y su función:
+
+1. **Miro**: Utilizamos Miro para elaborar el Lean UX Canvas presentado en el capítulo 1 del informe.
+   - Enlace: [Miro](https://miro.com/)
+
+2. **UXPressia**: Esta herramienta se empleó para crear elementos como User Personas, Impact Maps, Empathy Maps y Journey Maps.
+   - Enlace: [UXPressia](https://uxpressia.com/)
+
+3. **Trello**: Trello fue nuestra elección para mantener actualizado el estado de cada tarea dentro de los Sprint.
+   - Enlace: [Trello](https://trello.com/es)
+
+4. **Lucidchart**: Utilizamos Lucidchart para la creación de Diagramas de Clase, Base de Datos, User Flows y Wireflows.
+   - Enlace: [Lucidchart](https://www.lucidchart.com/pages/)
+
+5. **Structurizr**: Esta herramienta se utilizó para crear los diagramas del Modelo C4, como el Diagrama de Contexto, el Diagrama de Contenedores y los Diagramas de Componentes.
+   - Enlace: [Structurizr](https://structurizr.com/)
+
+6. **Visual Studio Code**: Este editor de código fue fundamental para la primera versión del Landing Page.
+   - Enlace: [Visual Studio Code](https://code.visualstudio.com/)
+
+7. **IntelliJ IDEA**: Utilizamos IntelliJ IDEA para desarrollar la parte de Back-end de Legiz.
+   - Enlace: [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/)
+
+8. **WebStorm**: WebStorm se empleó para crear el Front-end y el Landing Page de Legiz.
+   - Enlace: [WebStorm](https://www.jetbrains.com/es-es/webstorm/)
+
+9. **Git**: Utilizamos Git para el control de versiones en conjunto con GitHub.
+   - Enlace: [Git](https://git-scm.com/)
+
+10. **Jenkins**: Esta herramienta se utilizará para implementar el pipeline de integración continua.
+    - Enlace: [Jenkins](https://www.jenkins.io/)
+
+11. **JUnit**: JUnit será nuestro framework para llevar a cabo pruebas unitarias en el proyecto.
+    - Enlace: [JUnit](https://junit.org/junit5/)
+
 
 ## 5.2. Landing Page, Services & Applications Implementation. 
+Para llevar a cabo la implementación del landing page, optamos por GitHub Pages, que en conjunto consideramos como una opción simple y de fácil implementación. Creamos un repositorio que contiene todos los elementos con los que trabajaremos.
+
+![Alt text](Img/opengit.jpg)
+
+
+Después procedimos a elaborar el código y posteriormente lo cargamos en GitHub para su posterior lanzamiento.
+
+![Alt text](Img/landinggit.jpg)
+
+Teniendo en el index el código del landing page
+
+![Alt text](Img/indexgit.jpg)
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
 #### 5.2.1.2. Sprint Backlog 1
-#### 5.2.1.3. Development Evidence for Spring Review
 
+| **Sprint #** | **Sprint 1** |
+|--------------|--------------|
+| **User Story** | **Work-Item / Task** |
+| **id** | **Title** |
+| WI01 | Desarrollo de la sección "Colaboradores" |
+| **Description** | **Estimation** |
+| Desarrollo de la implementación del código de la sección "Colaboradores" para el landing page | 3 horas |
+| **Assigned To** | **Status** |
+| CSLP | Done |
+| **id** | **Title** |
+| WI02 | Desarrollo de la sección Home del landing page |
+| **Description** | **Estimation** |
+| Desarrollo de la implementación del código para la sección "Home" del landing page | 3 horas |
+| **Assigned To** | **Status** |
+| CSLP | Done |
+| **id** | **Title** |
+| WI03 | Desarrollo de la sección community |
+| **Description** | **Estimation** |
+| Desarrollo de la implementación del código para la sección de "community" del landing page | 6 horas |
+| **Assigned To** | **Status** |
+| CSLP | Done |
+| **id** | **Title** |
+| WI04 | Desarrollo de la sección Blog |
+| **Description** | **Estimation** |
+| Desarrollo de la implementación del código para la sección de "Blog" en el landing page | 8 horas |
+| **Assigned To** | **Status** |
+| CSLP | Done |
+| **id** | **Title** |
+| WI05 | Desarrollo de la sección events |
+| **Description** | **Estimation** |
+| Desarrollo de la implementación del código para la sección de eventos en el landing page | 6 horas |
+| **Assigned To** | **Status** |
+| CSLP | Done |
+| **id** | **Title** |
+| WI06 | Desarrollo del botón de login en el header |
+| **Description** | **Estimation** |
+| Desarrollo del botón de login que permitirá entrar a la aplicación web | 3 horas |
+| **Assigned To** | **Status** |
+| CLSP | Done |
+#### 5.2.1.3. Development Evidence for Spring Review
+![Alt text](Img/develgit1.jpg)
+![Alt text](Img/develgit3.jpg)
+![Alt text](Img/develgit4.jpg)
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+En esta primera entrega del primer sprint, nos complace informar que hemos logrado completar todas las tareas requeridas, incluyendo la implementación de algunos user stories relacionados con el frontend. Esto demuestra un sólido progreso en el desarrollo del proyecto y refleja nuestro compromiso en cumplir con los objetivos establecidos. Estamos satisfechos con los logros alcanzados hasta el momento y estamos ansiosos por continuar avanzando en los siguientes sprints.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
-
+![Alt text](Img/langit.jpg)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+El desarrollo del landing page se llevó a cabo utilizando la herramienta WebStorm y se implementaron tecnologías web estándar como HTML, CSS y JavaScript. Además, optamos por utilizar GitHub para alojar y publicar la versión final de nuestro proyecto, que está disponible en el siguiente enlace: https://construction-systems.github.io/landing/.
 
+Este enlace permite que cualquier persona acceda y explore nuestro landing page en línea, lo que facilita la visualización y evaluación de nuestro trabajo por parte de los usuarios. Continuaremos trabajando en nuestro proyecto y estamos disponibles para cualquier pregunta o asistencia adicional que puedan necesitar.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
