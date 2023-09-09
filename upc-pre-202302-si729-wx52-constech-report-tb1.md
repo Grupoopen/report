@@ -428,6 +428,19 @@ Los User persona se realizaron con el objetivo de definir los arquetipos que rep
 
 ### 2.3.3. User Journey Mapping
 
+<b>Segmento Cliente<b/><br>
+<br>
+
+<p align= left>
+<img src="Img/JMCliente.png" width="600"/>
+
+<b>Segmento Profesional<b/><br>
+<br>
+
+<p align= left>
+<img src="Img/JMProfesional.png" width="600"/>
+
+
 ### 2.3.4. Empathy Mapping
 
 ### 2.3.5. As-Is Scenario Mapping
