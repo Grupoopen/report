@@ -492,7 +492,7 @@ En la sección “Projects” damos información de nuestros proyectos realizado
 <img src="Img/Messages.png" width="700"/>
 </p>
 <p align= Center>
-<img src="Img/settings.png" width="700"/>
+<img src="Img/Settings.png" width="700"/>
 </p>
 
 ### 4.4.4. Web Applications User Flow Diagrams
