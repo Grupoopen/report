@@ -443,6 +443,20 @@ Los User persona se realizaron con el objetivo de definir los arquetipos que rep
 
 ### 2.3.4. Empathy Mapping
 
+En este apartado hemos elaborado un mapa de empatía con el usuario, la cual nos detalla su sentir, pensamientos además de que observa, oye y dice al respecto. Para lograr este mapa de empatía se realizó a partir del análisis de las entrevistas.<br>
+<br>
+Segmento Cliente<br>
+<br>
+
+<img src="Img/EMCliente.png" width="600"/><br>
+<br>
+
+Segmento Ingeniero<br>
+<br>
+
+<img src="Img/EMIngeniero.png" width="600"/><br>
+<br>
+
 ### 2.3.5. As-Is Scenario Mapping
 
 
