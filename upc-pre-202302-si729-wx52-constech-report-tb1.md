@@ -385,22 +385,79 @@ El siguiente artefacto es la síntesis del Lean UX process realizado. Este sirve
 # Capítulo 4: Product Design
 
 ## 4.1. Style Guidelines
+<p>
 
 ### 4.1.1. General Style Guidelines
+<p align= left>
+<img src="LOGO.png" width="200"/>
+</p>
+<b>Nuestra Marca</b><br>
+Nuestro producto busca ayudar a empresas encargadas de construcciones u otras actividades que necesitan reportar avances y necesiten de una vista general.<br>
+<b>Nuestro Logo</b><br>
+Presentamos un logo moderno con colores de tonos verdosos, que demuestran equilibrio y calma. Esto para poder brindar seguridad al cliente y también mostrar que queremos evitar apuros u otros inconvenientes que afecten las fechas de entrega de los proyectos que administramos.<br>
+<b>Paleta de colores</b><br>
+En la paleta de colores tenemos los dos colores principales de tono verdoso, y además agregamos los dos básicos: negro y blanco. Además, agregamos dos tonos más pastel de los tonos verdes principales.
+
+<p align= Center>
+<img src="colores.png" width="800"/>
+</p>
+<b>Nuestra Tipografía</b><br>
+Hemos seleccionado la fuente Helvética por ser una de las más utilizadas para que el usuario se sienta familiarizado al leer los diferentes contenidos de nuestros productos, ya sea el Landing Page o la Aplicación Web en sí.
+
+<p align= Center>
+<img src="Typografia.png" width="600"/>
+</p>
 
 ### 4.1.2. Web Style Guidelines
+
 
 ## 4.2. Information Architechture
 
 ### 4.2.1. Organization Systems
+En esta sección el equipo explica en qué grupos de información aplicará cuáles son los sistemas de organización.
+<b>Jerarquía Visual:</b>
+ 
+Con el propósito de mantener la estética de nuestra plataforma creativa y a la vanguardia de la competencia actual, hemos decidido priorizar los siguientes principios de diseño y visualización.
+ 
+<b>Jerarquía de Tipografía: </b>
+Nuestra plataforma difunde diversa información que es recibida por nuestros usuarios con un orden específico según la demanda. Por lo tanto, es importante tener en cuenta las características con las que se generan nuestros títulos, subtítulos, párrafos, entre otros.
+ 
+<b>Alineación:</b>
+En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la misma información.
+ 
+<b>Color y Contraste:</b>
+A la vista del usuario, el color cumple un rol muy importante y nuestra plataforma promueve las correctas composiciones del color, para dirigir diversas emociones; y del contraste, para enfatizar aquellos objetos de mayor importancia.
+ 
+<b>Organización Secuencial:</b>
+Además, los métodos de almacenamiento sobre los registros que el usuario final emplea siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la rapidez con la que se almacenan y acceden a ellos.
+ 
+<b>Esquemas de categorización de contenido:</b>
+Construction Systems contiene diferentes métodos de presentación de contenidos, ya que se recopilan distintas fuentes de información. Una de las categorías dedicadas es: por proyectos, donde se muestran los proyectos de Construction Systems,.
+
 
 ### 4.2.2. Labeling Systems
+Tenemos cuatro headings, ubicadas en el tope, que tienen la sección projects, messages, settings.
+ 
+<b>Projects:</b> Mostramos información de nuestros proyectos realizados.
+ 
+<b>Messages:</b> Se muestra un canal de comunicación ante el usuario.
+ 
+<b>Settings:</b> Se muestra las opciones donde el usuario pueda configurar a su justo.
+
+Escogimos y colocamos estas en orden jerárquico y lo hemos presentado de esta forma para brindar a nuestros usuarios, la simplicidad de un landing page para encontrar información sobre nuestro servicio que brindamos.
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 ### 4.2.4. Searching Systems
+En esta sección el equipo explica qué medios de ayuda se brindará al usuario para la búsqueda de datos dentro del producto digital.
+ 
+Los usuarios podrán buscar dentro de los 2 apartados que tenemos la información necesaria sobre nuestros proyectos y el canal de mensaje que brindamos. Nosotros le mandaremos recomendaciones de lo que busca en nuestra aplicación Construction Systems. Donde podrá tener toda la información que necesite.
+
 
 ### 4.2.5. Navigation Systems
+Como se mencionó, nuestro landing page está dividido en 3 headings, entre ellos Projects, Messages y Settings.
+En la sección “Projects” damos información de nuestros proyectos realizados, “Messages” muestra un canal donde exista una comunicación ante los usuarios, en “Settings”.
 
 ## 4.3. Landing Page UI Design
 
@@ -411,33 +468,72 @@ El siguiente artefacto es la síntesis del Lean UX process realizado. Este sirve
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
+<p align= Center>
+<img src="ux.png" width="700"/>
+</p>
+<p align= Center>
+<img src="ux2.png" width="700"/>
+</p>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-Ups
 
-### 4.4.4. Web Applications User Flow Diagrams
+<p align= Center>
+<img src="login.png" width="700"/>
+</p>
+<p align= Center>
+<img src="register.png" width="700"/>
+</p>
+<p align= Center>
+<img src="home.png" width="700"/>
+</p>
+<p align= Center>
+<img src="Messages.png" width="700"/>
+</p>
+<p align= Center>
+<img src="settings.png" width="700"/>
+</p>
 
+### 4.4.4. Web Applications User Flow Diagrams
+![Alt text](FlowDiagram.png)
 ## 4.5. Web Applications Prototyping
+Microsoft Stream Prototype Video Link: https://web.microsoftstream.com/video/368499d6-1582-4bb1-9e4c-93daf05793a7 
 
 ## 4.6. Domain-Driven Software Architecture
+Como parte del proceso de arquitectura de Construction Systems, se ha utilizado los diagramas C4 para este propósito, a continuación, se presenta la organización del sistema a través de este sistema.
+
 
 ### 4.6.1. Software Architecture Context Diagram
+![Alt text](img/Domain.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
+![Alt text](img/SwArchi.png)
 ### 4.6.3. Software Architecture Components Diagrams
-
+![Alt text](img/swCompo.png)
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
+Este es el diagrama de clases realizado para construir nuestra aplicación. El diagrama fue creado mediante Lucid Chart.
+
+![Alt text](img/DiagramClass.png)
 
 ### 4.7.2. Class Dictionary
+En el presente diccionario, se mostrará la utilidad de las clases creadas en el diagrama de clases presentado anteriormente
+<b>User:</b> Esta clase es la encargada de almacenar toda la información del cliente, además de obtener toda la información respecto a las demás clases mediante listas.
+<b>Subscription:</b> Clase relacionada por agregación a la clase User. Encargada de obtener información de la suscripción realizada por otros usuarios hacia ti y en la clase User los almacena en listas
+<b>Project:</b> Clase que representa la entidad Proyecto. Encargada de almacenar los proyectos generados por los usuarios, en donde se tendrá una lista de comentarios, tareas y archivos que se generen durante el trabajo del usuario.
+<b>Comment:</b> Clase que representa la entidad Comment. Encargada de almacenar un comentario generado en los proyectos, cuando se haga alguna modificación. Estos solo pueden existir en un solo un proyecto.
+<b>Task:</b> Clase que representa la entidad Task. Encargada de almacenar  tareas que se generan en un proyecto, indicará cuando se complete alguna tarea.
+<b>File:</b> Clase que representa la entidad File. Encargada de almacenar archivos que se suban en los proyectos, se podrá visualizar la fecha y el tipo de archivo que se sube. 
 
 ## 4.8. Database Design
+A continuación, se muestra el diagrama de base de datos en base a nuestro diagrama UML, se respetó las relaciones y el uso del Primary y Foreign Key.
+
 
 ### 4.8.1. Database Diagram
 
-
+![Alt text](Img/DB.png)
 
 <div style="page-break-after: always;"></div>
 
