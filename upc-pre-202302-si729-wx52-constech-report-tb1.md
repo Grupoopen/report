@@ -389,7 +389,7 @@ El siguiente artefacto es la síntesis del Lean UX process realizado. Este sirve
 
 ### 4.1.1. General Style Guidelines
 <p align= left>
-<img src="LOGO.png" width="200"/>
+<img src="Img/LOGO.png" width="200"/>
 </p>
 <b>Nuestra Marca</b><br>
 Nuestro producto busca ayudar a empresas encargadas de construcciones u otras actividades que necesitan reportar avances y necesiten de una vista general.<br>
@@ -399,13 +399,13 @@ Presentamos un logo moderno con colores de tonos verdosos, que demuestran equili
 En la paleta de colores tenemos los dos colores principales de tono verdoso, y además agregamos los dos básicos: negro y blanco. Además, agregamos dos tonos más pastel de los tonos verdes principales.
 
 <p align= Center>
-<img src="colores.png" width="800"/>
+<img src="Img/colores.png" width="800"/>
 </p>
 <b>Nuestra Tipografía</b><br>
 Hemos seleccionado la fuente Helvética por ser una de las más utilizadas para que el usuario se sienta familiarizado al leer los diferentes contenidos de nuestros productos, ya sea el Landing Page o la Aplicación Web en sí.
 
 <p align= Center>
-<img src="Typografia.png" width="600"/>
+<img src="Img/Typografia.png" width="600"/>
 </p>
 
 ### 4.1.2. Web Style Guidelines
@@ -469,10 +469,10 @@ En la sección “Projects” damos información de nuestros proyectos realizado
 
 ### 4.4.1. Web Applications Wireframes
 <p align= Center>
-<img src="ux.png" width="700"/>
+<img src="Img/ux.png" width="700"/>
 </p>
 <p align= Center>
-<img src="ux2.png" width="700"/>
+<img src="Img/ux2.png" width="700"/>
 </p>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
@@ -480,23 +480,23 @@ En la sección “Projects” damos información de nuestros proyectos realizado
 ### 4.4.3. Web Applications Mock-Ups
 
 <p align= Center>
-<img src="login.png" width="700"/>
+<img src="Img/login.png" width="700"/>
 </p>
 <p align= Center>
-<img src="register.png" width="700"/>
+<img src="Img/register.png" width="700"/>
 </p>
 <p align= Center>
-<img src="home.png" width="700"/>
+<img src="Img/home.png" width="700"/>
 </p>
 <p align= Center>
-<img src="Messages.png" width="700"/>
+<img src="Img/Messages.png" width="700"/>
 </p>
 <p align= Center>
-<img src="settings.png" width="700"/>
+<img src="Img/settings.png" width="700"/>
 </p>
 
 ### 4.4.4. Web Applications User Flow Diagrams
-![Alt text](FlowDiagram.png)
+![Alt text](Img/FlowDiagram.png)
 ## 4.5. Web Applications Prototyping
 Microsoft Stream Prototype Video Link: https://web.microsoftstream.com/video/368499d6-1582-4bb1-9e4c-93daf05793a7 
 
@@ -505,18 +505,18 @@ Como parte del proceso de arquitectura de Construction Systems, se ha utilizado 
 
 
 ### 4.6.1. Software Architecture Context Diagram
-![Alt text](img/Domain.png)
+![Alt text](Img/Domain.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
-![Alt text](img/SwArchi.png)
+![Alt text](Img/SwArchi.png)
 ### 4.6.3. Software Architecture Components Diagrams
-![Alt text](img/swCompo.png)
+![Alt text](Img/swCompo.png)
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 Este es el diagrama de clases realizado para construir nuestra aplicación. El diagrama fue creado mediante Lucid Chart.
 
-![Alt text](img/DiagramClass.png)
+![Alt text](Img/DiagramClass.png)
 
 ### 4.7.2. Class Dictionary
 En el presente diccionario, se mostrará la utilidad de las clases creadas en el diagrama de clases presentado anteriormente
