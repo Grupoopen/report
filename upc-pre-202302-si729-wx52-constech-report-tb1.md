@@ -169,6 +169,14 @@ Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Apli
 <img src="Img/Josue.jpg" width="200"/>
 </p>
 
+
+
+<p align= left>
+<img src="Img/Enrique.jpg" width="200"/>
+</p>
+
+
+
 ## 1.2. Solution Profile
 
 Constech ayudará a las empresas o ingenieros de construcción, ya sea civil, naval, software u otro tipo de construcción mantener actualizados a sus clientes sobre contratos u obras de construcción realizadas por las diversas empresas.
