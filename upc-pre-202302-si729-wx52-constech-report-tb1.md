@@ -348,18 +348,67 @@ El siguiente artefacto es la síntesis del Lean UX process realizado. Este sirve
 
 ## 2.1. Competidores
 
+                                                                                                                                                             | 1. Falta de información mediante su página web. <br/> 2. No cuenta con un aplicativo móvil.                                                                                                                                            | 1. No cuenta con una ubicación exacta. <br/> 2. Todo se realiza de manera telefónica o por correo electrónico. 3. No cuenta con un aplicativo móvil.                                                     |
+
+
+
 ### 2.1.1. Análisis competitivo
 
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
+1. ¿Nombre? ¿Edad? ¿Dónde vive? ¿A qué se dedica (profesión)?  
+2. ¿Trabaja actualmente? ¿Donde?
+3. ¿Cuántos proyectos al año maneja?
+4. ¿Como se comunican actualmente con sus clientes con respecto a sus avances de los proyectos?
+5. ¿Cuál ha sido el proyecto complicado que se le ha implicado?
+6. ¿Alguna vez abandonó un proyecto sin haberlo acabado?, Cual fue la razón?
+7. ¿Tuvo que resolver alguna vez un problema importante sin consultar?
+8. ¿Alguna vez utilizó plataformas web o parecidas, para la actualización de los avances de los proyectos?
+9. ¿Usted cree que sería de gran ayuda un software de ese tipo?
+10. ¿Qué funciones quisiera tener en este tipo de software?
+
+
 ### 2.2.2. Registro de entrevistas
+
+1. Entrevistador: Andrés Doig
+2. Entrevistado: Joshua Gasco
+3. Información del entrevistado: Ingeniero civil de 27 años que actualmente vive en Surco, Lima y labora en la empresa “ABG construcciones metálicas y montaje” la cual se ubica en la zona industrial en el Callao. Él se encarga de muchos proyectos de metalmecánica.
+4. Link de Microsoft Stream: https://web.microsoftstream.com/video/24aa3c9e-b387-414a-9060-c62e5d002b04
+
+<img src="Img/Entrevista1.jpg" width="500"/>
+
+1. Entrevistador: Kalid Palacios
+2. Entrevistado: Diego Barja
+3. Información del entrevistado: Ingeniero de Software de 19 años especializado en desarrollo web con trabajo independiente, actualmente reside en el agustino y realiza proyectos independientes de 4 a 6 meses
+4. Enlace de la entrevista: https://web.microsoftstream.com/video/bc66e0d7-131e-4855-a068-8d84500c3046
+
+<img src="Img/Entrevista2.jpg" width="500"/>
 
 ### 2.2.3. Análisis de entrevistas
 
+Se desarrolló el análisis de cada una de las entrevistas realizadas por el equipo. Con el fin de comprender el mercado, a través de nuestro segmento objetivo. Las entrevistas nos revelaron información relevante para el desarrollo de nuestra aplicación web, como podemos notar.
+
++ <b>Entrevista – Joshua Gasco</b><br>
+  Antes de iniciar la entrevista con Joshua, me comentó que actualmente está trabajando en un proyecto importante, se encuentra concentrado en construcción con los materiales como metales y montaje.<br>
+<br>
+  Uno de los problemas que tenía era que quería tener mejor organización mejor sobre los documentos y acerca del avance de sus proyectos a gran escala que tiene en su empresa. Le pregunté si conocía la plataforma que hicieran este tipo de labor y la respuesta era afirmativa, pero por comentarios de sus amigas más nunca tuvo la curiosidad de ingresar a dicha plataforma, además de que no le eran muy útil o no tenían las características que este buscaba para sus proyectos.
+<br>  
+Cuando le presenté la idea de Construction system se mostró muy entusiasmado y le agradó la idea de una gran plataforma de avance y visualización de los proyectos a gran y corta escala a su alcance, es como tener un Google drive, pero de proyecto que a la par pueda comunicarse con sus compañeros y no tener que tener varias plataformas para poder realizar todos los envíos a un pago muy accesible para él. Me comentó que le tenga informado sobre este proyecto por qué le gustaría saber el futuro de ello.
+
+<br>
+
++ <b>Entrevista - Diego Barja</b><br>
+Antes de iniciar la entrevista con Diego, había notado un gran aprecio por el mundo del software y todo lo que tenga que ver con la tecnología y que le encanta los proyectos nuevos que los estudiantes quieren lanzar. Él me había explicado que los libros ayudaban a estar siempre al tanto de lo que sucede actualmente en el mundo, le encanta las páginas web en tecnología y novedades del mundo Geek.<br>
+<br>
+Uno de los problemas que pude apreciar por parte de él, fue que no utilizaba plataforma para poder organizar su trabajo y que al contrario necesitaba varias páginas o plataformas de organización para que pueda avanzar su trabajo y poder comunicarse con sus compañeros. Por lo que le mencione acerca del proyecto que venimos realizando acerca de poder organizar sus proyectos de una manera rápida segura y todo en una sola página. Le encanto esta idea y sobre todo dijo que en algún futuro le gustaría que pudiera ser accesible para empresas grandes como pequeñas, ya que le parece muy confuso y algo estresante tener que enviar sus archivos y a la par tener que visualizar los proyectos por separado.
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
