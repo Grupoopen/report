@@ -163,13 +163,6 @@ Misión: Ayudar a los empresarios en el ámbito industrial en poder brindar un e
 Visión: Ser líderes en el mercado peruano, en herramientas tecnológicas para la industria.
 ### 1.1.2. Perfiles de integrantes del equipo
 
-<b>Llatas Flores,Enrique Aldhair
-Ingeniería de Software</b>
-Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 6to ciclo de la carrera de Ingeniería de Software porque me apasiona el proceso que existe detrás del desarrollo de software .Me gustaría expandir mis conocimientos en la programación web y mobile.
-
-<p align= center>
-<img src="Img/enrique.png"/>
-</p>
 
 
 
