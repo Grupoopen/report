@@ -348,9 +348,6 @@ El siguiente artefacto es la síntesis del Lean UX process realizado. Este sirve
 
 ## 2.1. Competidores
 
-                                                                                                                                                             | 1. Falta de información mediante su página web. <br/> 2. No cuenta con un aplicativo móvil.                                                                                                                                            | 1. No cuenta con una ubicación exacta. <br/> 2. Todo se realiza de manera telefónica o por correo electrónico. 3. No cuenta con un aplicativo móvil.                                                     |
-
-
 
 ### 2.1.1. Análisis competitivo
 
@@ -412,6 +409,20 @@ Uno de los problemas que pude apreciar por parte de él, fue que no utilizaba pl
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
+
+Los User persona se realizaron con el objetivo de definir los arquetipos que representan de forma ficticia los diferentes tipos de usuarios que pueden interactuar con nuestro servicio. A continuación, procederemos a mostrar los User que pudimos extraer en base a un análisis de las entrevistas realizadas anteriormente
+
+<br>
+<b>Segmento Cliente</b><br>
+<br>
+
+<img src="Img/SegmentoCliente.png" width="600"/>
+
+<b>Segmento Ingeniero</b><br>
+<br>
+
+<p align= left>
+<img src="Img/SegmentoIngeniero.png" width="600"/>
 
 ### 2.3.2. User Tast Matrix
 
