@@ -655,6 +655,10 @@ Asegúrate de que todos los archivos y carpetas necesarios estén disponibles en
 Con estos pasos, habrás configurado correctamente el despliegue de tu Landing Page en GitHub Pages. El sitio estará disponible públicamente en la dirección proporcionada por GitHub, y podrás acceder a él una vez que el proceso de despliegue se haya completado.
 ### 5.1.2. Source Code Management.
 
+Para implementar el flujo de trabajo GitFlow utilizando la herramienta de control de versiones Git, nos basamos en la entrada de blog titulada "A successful Git branching model" de Vincent Driessen. Esta fuente nos proporcionó las siguientes convenciones que serán aplicadas en nuestro proyecto:
+
+![Alt text](Img/managegit.jpg)
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 
 **Semantic Versioning**
