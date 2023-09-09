@@ -165,9 +165,20 @@ Visión: Ser líderes en el mercado peruano, en herramientas tecnológicas para 
 
 Florentino Josue Carrasco Hernandez (U202020727)
 Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Responsable, proactivo, comunicativo, tolerante, empático y orientado a resultados. Tengo conocimientos en desarrollo web HTML, CSS, JavaScript.
-<p align= left>
+<p align= center>
 <img src="Img/Josue.jpg" width="200"/>
 </p>
+
+
+<b>Llatas Flores,Enrique Aldhair (U20201f172)
+Ingeniería de Software</b>
+Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 6to ciclo de la carrera de Ingeniería de Software porque me apasiona el proceso que existe detrás del desarrollo de software .Me gustaría expandir mis conocimientos en la programación web y mobile.
+
+<p align= center>
+<img src="Img/Enrique.png" width="200"/>
+</p>
+
+
 
 ## 1.2. Solution Profile
 
