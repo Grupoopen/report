@@ -359,7 +359,8 @@ Contamos con 2 segmentos objetivo. El primero son ingenieros civiles, navales en
 
 ### 2.1.1. Análisis competitivo
 
-
+<img src="Img/analisisCompetitivo.jpg" width="600"/><br>
+<br>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
@@ -439,6 +440,20 @@ Los User persona se realizaron con el objetivo de definir los arquetipos que rep
 <img src="Img/SegmentoIngeniero.png" width="600"/>
 
 ### 2.3.2. User Tast Matrix
+
+El User Task Matrix ayudará a encontrar cuál es la parte crítica de la experiencia del usuario, cosas que no deben verse comprometidas.<br>
+<br>
+La cantidad de veces que el usuario realiza la tarea (frecuencia) y la urgencia se dividirá en 3 tipos:<br>
+<br>
+Rojo: Indica poca importancia, urgencia y frecuencia para ese usuario.<br>
+<br>
+Amarillo: Indica importancia, urgencia y frecuencia media para ese usuario.<br>
+<br>
+Verde: Indica mucha improtancia, urgencia y frecuencia para ese usuario.<br>
+<br>
+
+<img src="Img/userTaskMatrix.jpg" width="600"/><br>
+<br>
 
 ### 2.3.3. User Journey Mapping
 
