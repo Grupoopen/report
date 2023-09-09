@@ -363,7 +363,13 @@ Contamos con 2 segmentos objetivo. El primero son ingenieros civiles, navales en
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Para hacer frente a nuestros competidores, decimos aplicar las siguientes estrategias.<br>
+<br>
 
++ Estudiar el mercado actual y la demanda. Si existe una gran demanda, está la posibilidad de que nuestra plataforma consiga un lugar en el mercado de acuerdo con los segmentos objetivos que buscamos.
++ Hacer caso a las peticiones de los usuarios. Dependiendo de sus necesidades, realizamos funciones para hacer que nuestra plataforma se adapte a todas las necesidades que nuestros usuarios requieran.
++ Estudiar la competencia. Ver que funciones y atractivos ofrecen en sus aplicaciones o plataformas. Después de eso, tener ideas de cómo mejorar nuestra plataforma de tal manera que sea original y diferente a la competencia.
++ Mantenernos en contante cambio. Uno de los puntos más importes para el desarrollo de una nueva aplicación es el feedback de los usuarios frente servicios ofrecidos.
 
 ## 2.2. Entrevistas
 
