@@ -163,6 +163,12 @@ Misión: Ayudar a los empresarios en el ámbito industrial en poder brindar un e
 Visión: Ser líderes en el mercado peruano, en herramientas tecnológicas para la industria.
 ### 1.1.2. Perfiles de integrantes del equipo
 
+Florentino Josue Carrasco Hernandez (U202020727)
+Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Responsable, proactivo, comunicativo, tolerante, empático y orientado a resultados. Tengo conocimientos en desarrollo web HTML, CSS, JavaScript.
+<p align= left>
+<img src="Img/Josue.jpg" width="200"/>
+</p>
+
 ## 1.2. Solution Profile
 
 Constech ayudará a las empresas o ingenieros de construcción, ya sea civil, naval, software u otro tipo de construcción mantener actualizados a sus clientes sobre contratos u obras de construcción realizadas por las diversas empresas.
