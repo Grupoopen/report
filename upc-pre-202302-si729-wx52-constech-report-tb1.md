@@ -858,7 +858,7 @@ Teniendo en el index el código del landing page
 ![Alt text](Img/develgit3.jpg)
 ![Alt text](Img/develgit4.jpg)
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-En esta primera entrega del primer sprint, nos complace informar que hemos logrado completar todas las tareas requeridas, incluyendo la implementación de algunos user stories relacionados con el frontend. Esto demuestra un sólido progreso en el desarrollo del proyecto y refleja nuestro compromiso en cumplir con los objetivos establecidos. Estamos satisfechos con los logros alcanzados hasta el momento y estamos ansiosos por continuar avanzando en los siguientes sprints.
+En esta primera entrega del primer sprint, nos complace informar que hemos logrado completar todas las tareas requeridas, incluyendo la implementación de algunos user stories relacionados. Esto demuestra un sólido progreso en el desarrollo del proyecto y refleja nuestro compromiso en cumplir con los objetivos establecidos. Estamos satisfechos con los logros alcanzados hasta el momento y estamos ansiosos por continuar avanzando en los siguientes sprints.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 ![Alt text](Img/langit.jpg)
