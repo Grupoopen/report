@@ -1067,7 +1067,10 @@ Ismael
 |     UC05    | Buscar un proyecto                  |        WI09       |    Desarrollo de la lista de proyectos    |                   Desarrollo de una función para mostrar una lista de proyectos disponibles en la plataforma, con detalles como título, descripción y ubicación.                  |   8 horas   | Cristian Orosco           |   Done  |
 |    UCD05    | Agregar mi proyecto a la plataforma |       WI010       |    Desarrollo de la pantalla de Tareas    | Desarrollo de una pantalla que permitirá a los usuarios administrar y dar seguimiento a las tareas relacionadas con sus proyectos, incluyendo la creación y asignación de tareas. |   8 horas   | Josue Carrasco Hernándezi |   Done  |
 #### 5.2.2.3. Development Evidence for Spring Review 
-![Alt text](Img/CommitsFront.jpg)
+A continuación se muestran los commits del repositorio constech-web-app
+![Alt text](Img/CommitsConstech.jpg)
+A continuación se muestran los commits del repositorio Report
+![Alt text](Img/CommitsReport.jpg)
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review 
