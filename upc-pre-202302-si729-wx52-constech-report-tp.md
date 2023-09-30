@@ -1,5 +1,5 @@
 <p align= center>
-<img src="Img/UPC_logo_transparente.png" width="200"/>
+<img src="Img/UPC_logo_transparente.png" width="180"/>
 </p>
 
 **<p style="text-align: center;">UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</p>**
@@ -9,7 +9,7 @@
 *<p style="text-align: center;">Desarrollo de Aplicaciones Open Source</p>*
 **<p style="text-align: center;">SECCIÓN:</p>**
 *<p style="text-align: center;">WX52</p>*
-**<p style="text-align: center;">FINAL PROYECT REPORT - TB1</p>**
+**<p style="text-align: center;">FINAL PROYECT REPORT - TP</p>**
 **<p style="text-align: center;">STARTUP:</p>**
 *<p style="text-align: center;">Construction Systems</p>*
 **<p style="text-align: center;">PRODUCT:</p>**
@@ -41,7 +41,7 @@
 | Criterio específico                                                                                                                                                                    | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                     | Conclusiones                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | Doig Apostol, Andrés <br>TB1<br><br>Como Team Leader he organizado y me he comunicado con mis companeros de trabajo. Para esta entrega se realizó el planteamiento del startup y sus reglas de negocio, para poder brindar el mejor servicio a nuestros segmentos objetivos.<br><br>Cueva Elera, Erick Armando<br>TB1<br><br>Asistencia a las reuniones realizadas para la definición del proyecto a desarrollar. | Doig Apostol, Andrés<br>TB1<br><br>Es importante una comunicación clara y efectiva para poder trabajar las diferentes ideas que uno tiene. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Doig Apostol, Andrés<br>TB1<br><br>Aplicamos lo aprendido durante los cursos anteriores y adicionalmente lo que nos explicó el profe en este curso para poder trabajar un planteamiento de nuestro proyecto de manera exitosa.<br><br>Cueva Elera, Erick Armando<br>TB1<br><br>`Desarrollo del capitulo 2 del informe.                                                                                          | Doig Apostol, Andrés`<br>`TB1`<br><br>`Una escritura clara en la documentación ayuda el entendimiento para todo tipo de público/lector.       |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Doig Apostol, Andrés<br>TB1<br><br>Aplicamos lo aprendido durante los cursos anteriores y adicionalmente lo que nos explicó el profe en este curso para poder trabajar un planteamiento de nuestro proyecto de manera exitosa.<br><br>Cueva Elera, Erick Armando<br>TB1<br><br>`Desarrollo del capitulo 2 del informe.                                                                                          | Doig Apostol, Andrés<br>TB1<br><br>Una escritura clara en la documentación ayuda el entendimiento para todo tipo de público/lector.       |
 
 <div style="page-break-after: always;"></div>
 
@@ -185,9 +185,9 @@ Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Apli
 <div style="page-break-after: always;"></div>
 
 
-`<b>`Llatas Flores,Enrique Aldhair (U20201f172)
+<b>Llatas Flores,Enrique Aldhair (U20201f172)
 
-Ingeniería de Software`</b>`
+Ingeniería de Software</b>
 
 Mi nombre es Enrique Aldhair Llatas Flores , estoy en el 6to ciclo de la carrera de Ingeniería de Software porque me apasiona el proceso que existe detrás del desarrollo de software .Me gustaría expandir mis conocimientos en la programación web y mobile.
 
@@ -221,9 +221,6 @@ Tengo 21 años y actualmente me encuentro cursando el sexto ciclo de la carrera 
 <img src="Img/Erick.jpg" width="200"/>
 </p>
 
-
-
-<div style="page-break-after: always;"></div>
 
 
 Ismael Sebastian Zamora Rivera (U202116671) Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Sociable, empático y ordenado. Tengo conocimientos en desarrollo web.
@@ -418,15 +415,19 @@ Contamos con 2 segmentos objetivo. El primero son ingenieros civiles, navales en
 | Características principales | 1. Cuenta con diferentes servicios como remodelación, mobiliario clínico, estructuras metálicas y mobiliario restaurantes.                                                                                                                  | 1. Cuenta con servicios desde servicio arquitectura hasta servicio de obras de saneamiento.  2.Mantiene un historial que sus clientes reconocidos. 3.Cuenta con diferentes sedes.                                                             | 1. Cuenta con deseños, fabricaciones y montajes.                                                                                                                                                            |
 | Limitaciones                 | 1. No cuenta con instalaciones internas. 2. No cuenta con un aplicativo móvil.                                                                                                                                                                | 1. Falta de información mediante su página web.`` 2. No cuenta con un aplicativo móvil.                                                                                                                                             | 1. No cuenta con una ubicación exacta.`` 2. Todo se realiza de manera telefónica o por correo electrónico. 3. No cuenta con un aplicativo móvil.                                                  |
 
+<div style="page-break-after: always;"></div>
+
 ### 2.1.1. Análisis competitivo
 
 <img src="Img/analisisCompetitivo.jpg" width="600"/><br>
 <br>
 
+<div style="page-break-after: always;"></div>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-Para hacer frente a nuestros competidores, decimos aplicar las siguientes estrategias.`<br>`
-`<br>`
+Para hacer frente a nuestros competidores, decimos aplicar las siguientes estrategias.<br>
+<br>
 
 + Estudiar el mercado actual y la demanda. Si existe una gran demanda, está la posibilidad de que nuestra plataforma consiga un lugar en el mercado de acuerdo con los segmentos objetivos que buscamos.
 + Hacer caso a las peticiones de los usuarios. Dependiendo de sus necesidades, realizamos funciones para hacer que nuestra plataforma se adapte a todas las necesidades que nuestros usuarios requieran.
@@ -468,19 +469,21 @@ Para hacer frente a nuestros competidores, decimos aplicar las siguientes estrat
 
 Se desarrolló el análisis de cada una de las entrevistas realizadas por el equipo. Con el fin de comprender el mercado, a través de nuestro segmento objetivo. Las entrevistas nos revelaron información relevante para el desarrollo de nuestra aplicación web, como podemos notar.
 
-+ `<b>`Entrevista – Joshua Gasco`</b><br>`
-  Antes de iniciar la entrevista con Joshua, me comentó que actualmente está trabajando en un proyecto importante, se encuentra concentrado en construcción con los materiales como metales y montaje.`<br>`
-  `<br>`
++ <b>Entrevista – Joshua Gasco</b><br>
+  Antes de iniciar la entrevista con Joshua, me comentó que actualmente está trabajando en un proyecto importante, se encuentra concentrado en construcción con los materiales como metales y montaje.<br>
+  <br>
   Uno de los problemas que tenía era que quería tener mejor organización mejor sobre los documentos y acerca del avance de sus proyectos a gran escala que tiene en su empresa. Le pregunté si conocía la plataforma que hicieran este tipo de labor y la respuesta era afirmativa, pero por comentarios de sus amigas más nunca tuvo la curiosidad de ingresar a dicha plataforma, además de que no le eran muy útil o no tenían las características que este buscaba para sus proyectos.
-  `<br>`
+  <br>
   Cuando le presenté la idea de Construction system se mostró muy entusiasmado y le agradó la idea de una gran plataforma de avance y visualización de los proyectos a gran y corta escala a su alcance, es como tener un Google drive, pero de proyecto que a la par pueda comunicarse con sus compañeros y no tener que tener varias plataformas para poder realizar todos los envíos a un pago muy accesible para él. Me comentó que le tenga informado sobre este proyecto por qué le gustaría saber el futuro de ello.
 
 <br>
 
-+ `<b>`Entrevista - Diego Barja`</b><br>`
-  Antes de iniciar la entrevista con Diego, había notado un gran aprecio por el mundo del software y todo lo que tenga que ver con la tecnología y que le encanta los proyectos nuevos que los estudiantes quieren lanzar. Él me había explicado que los libros ayudaban a estar siempre al tanto de lo que sucede actualmente en el mundo, le encanta las páginas web en tecnología y novedades del mundo Geek.`<br>`
-  `<br>`
++ <b>Entrevista - Diego Barja</b><br>
+  Antes de iniciar la entrevista con Diego, había notado un gran aprecio por el mundo del software y todo lo que tenga que ver con la tecnología y que le encanta los proyectos nuevos que los estudiantes quieren lanzar. Él me había explicado que los libros ayudaban a estar siempre al tanto de lo que sucede actualmente en el mundo, le encanta las páginas web en tecnología y novedades del mundo Geek.<br>
+  <br>
   Uno de los problemas que pude apreciar por parte de él, fue que no utilizaba plataforma para poder organizar su trabajo y que al contrario necesitaba varias páginas o plataformas de organización para que pueda avanzar su trabajo y poder comunicarse con sus compañeros. Por lo que le mencione acerca del proyecto que venimos realizando acerca de poder organizar sus proyectos de una manera rápida segura y todo en una sola página. Le encanto esta idea y sobre todo dijo que en algún futuro le gustaría que pudiera ser accesible para empresas grandes como pequeñas, ya que le parece muy confuso y algo estresante tener que enviar sus archivos y a la par tener que visualizar los proyectos por separado.
+
+<div style="page-break-after: always;"></div>
 
 ## 2.3. Needfinding
 
@@ -494,54 +497,65 @@ Los User persona se realizaron con el objetivo de definir los arquetipos que rep
 
 <img src="Img/SegmentoCliente.png" width="600"/>
 
-`<b>`Segmento Ingeniero`</b><br>`
-`<br>`
+<div style="page-break-after: always;"></div>
+
+<b>Segmento Ingeniero</b><br>
+<br>
 
 <p align= left>
 <img src="Img/SegmentoIngeniero.png" width="600"/>
 
 ### 2.3.2. User Tast Matrix
 
-El User Task Matrix ayudará a encontrar cuál es la parte crítica de la experiencia del usuario, cosas que no deben verse comprometidas.`<br>`
-`<br>`
-La cantidad de veces que el usuario realiza la tarea (frecuencia) y la urgencia se dividirá en 3 tipos:`<br>`
-`<br>`
-Rojo: Indica poca importancia, urgencia y frecuencia para ese usuario.`<br>`
-`<br>`
-Amarillo: Indica importancia, urgencia y frecuencia media para ese usuario.`<br>`
-`<br>`
-Verde: Indica mucha improtancia, urgencia y frecuencia para ese usuario.`<br>`
-`<br>`
+El User Task Matrix ayudará a encontrar cuál es la parte crítica de la experiencia del usuario, cosas que no deben verse comprometidas.<br>
+<br>
+La cantidad de veces que el usuario realiza la tarea (frecuencia) y la urgencia se dividirá en 3 tipos:<br>
+<br>
+Rojo: Indica poca importancia, urgencia y frecuencia para ese usuario.<br>
+<br>
+Amarillo: Indica importancia, urgencia y frecuencia media para ese usuario.<br>
+<br>
+Verde: Indica mucha improtancia, urgencia y frecuencia para ese usuario.<br>
+<br>
 
 <img src="Img/userTaskMatrix.jpg" width="600"/><br>
 <br>
 
+
+<div style="page-break-after: always;"></div> 
+
 ### 2.3.3. User Journey Mapping
 
-`<b>`Segmento Cliente`<b/><br>`
-`<br>`
+<b>Segmento Cliente</b><br>
+<br>
 
 <p align= left>
 <img src="Img/JMCliente.png" width="600"/>
 
-`<b>`Segmento Profesional`<b/><br>`
-`<br>`
+<div style="page-break-after: always;"></div>
+
+<b>Segmento Profesional</b><br>
+<br>
 
 <p align= left>
 <img src="Img/JMProfesional.png" width="600"/>
 
+<div style="page-break-after: always;"></div>
+
 ### 2.3.4. Empathy Mapping
 
-En este apartado hemos elaborado un mapa de empatía con el usuario, la cual nos detalla su sentir, pensamientos además de que observa, oye y dice al respecto. Para lograr este mapa de empatía se realizó a partir del análisis de las entrevistas.`<br>`
-`<br>`
-Segmento Cliente`<br>`
-`<br>`
+En este apartado hemos elaborado un mapa de empatía con el usuario, la cual nos detalla su sentir, pensamientos además de que observa, oye y dice al respecto. Para lograr este mapa de empatía se realizó a partir del análisis de las entrevistas.<br>
+<br>
+Segmento Cliente<br>
+<br>
 
 <img src="Img/EMCliente.png" width="600"/><br>
 <br>
 
-Segmento Ingeniero`<br>`
-`<br>`
+<div style="page-break-after: always;"></div>
+
+Segmento Ingeniero<br>
+<br>
 
 <img src="Img/EMIngeniero.png" width="600"/><br>
 <br>
@@ -554,7 +568,7 @@ Segmento Ingeniero`<br>`
 
 ## 3.1. To-Be Scneario Mapping
 
-`<b>`To-Be Scenario Mapping-Empresa`</b><br>`
+<b>To-Be Scenario Mapping-Empresa</b><br>
 
 <p align= left>
 <img src="Img/AsIs Empresa.png" width="200"/>
@@ -587,16 +601,17 @@ Hemos desarrollado los siguientes user stories para nuestra aplicación.
 | UCD09                | Solicitud de cambios y observaciones                                 | Como empresa quiero realizar observaciones sobre mi proyecto y una solicitud de cambio                                                                                                | Escenario 1: La empresa no le gusto el trabajo realizado Dado que empresa en la sección de avances vio que lo que solicitó no le  gusto Cuando ingrese a la sección de sus proyectos y seleccione cambios y observaciones  Entonces le saldrá un “Text box” para rellenar con los cambias que desea realizar    Escenario 2  : La empresa cambia una parte del proyecto Dado que la empresa pagó el 100% del proyecto Y desea cambiar alguna parte del proyecto Cuando ingrese a la sección de sus proyectos y seleccione cambios y observaciones Entonces le saldrá el mensaje “No se puede realizar un cambia una vez pagado el 100%”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | UCD10                | Ver el estado del material                                           | Como empresa quiero cambiar el tipo de material en construcción                                                                                                                      | Escenario 1: Ingresa a cambiar el tipo de material. Dado que el empresa deseo cambiar el material del suelo de su proyecto Cuando ingrese a la sección de sus proyectos y seleccione materiales Entonces le saldrá la información de los materiales con los que se está construyendo su proyecto y si desea cambiarlos.     Escenario 2: Desea cambiar el material, pero ya es muy tarde. Dado que la empresa desea cambiar el material del suelo de su proyecto Cuando ingrese a la sección de sus proyectos y seleccione materiales Entonces le saldrá el mensaje de “Etapa finalizada, no se puede modificar” y un botón de “Contactar con la empresa” .                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | UCD11                | Visualizar perfil de empresa                                         | Como empresa quiero poder visualizar mi perfil para observar mi información                                                                                                          | Escenario 1: Visualizar el perfil de una empresa DADO que el usuario esté registrado y haya iniciado sesión en la aplicación, CUANDO el usuario busque o haga clic en el nombre de una empresa en la plataforma, ENTONCES se mostrará el perfil de la empresa.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+<div style="page-break-after: always;"></div>
 
 ## 3.3. Impact Mapping
 
-`<b>`Empresa`</b><br>`
+<b>Empresa</b><br>
 
 <p align= left>
 <img src="Img/Impact Empresa.png" width="200"/>
 </p>
 
-`<b>`Cliente`</b><br>`
+<b>Cliente</b><br>
 
 <p align= left>
 <img src="Img/Impact Cliente.png" width="200"/>
@@ -662,34 +677,34 @@ Hemos seleccionado la fuente Helvética por ser una de las más utilizadas para 
 ### 4.2.1. Organization Systems
 
 En esta sección el equipo explica en qué grupos de información aplicará cuáles son los sistemas de organización.
-`<b>`Jerarquía Visual:`</b>`
+<b>Jerarquía Visual:</b>
 
 Con el propósito de mantener la estética de nuestra plataforma creativa y a la vanguardia de la competencia actual, hemos decidido priorizar los siguientes principios de diseño y visualización.
 
-`<b>`Jerarquía de Tipografía: `</b>`
+<b>Jerarquía de Tipografía: </b>
 Nuestra plataforma difunde diversa información que es recibida por nuestros usuarios con un orden específico según la demanda. Por lo tanto, es importante tener en cuenta las características con las que se generan nuestros títulos, subtítulos, párrafos, entre otros.
 
-`<b>`Alineación:`</b>`
+<b>Alineación:</b>
 En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la misma información.
 
-`<b>`Color y Contraste:`</b>`
+<b>Color y Contraste:</b>
 A la vista del usuario, el color cumple un rol muy importante y nuestra plataforma promueve las correctas composiciones del color, para dirigir diversas emociones; y del contraste, para enfatizar aquellos objetos de mayor importancia.
 
-`<b>`Organización Secuencial:`</b>`
+<b>Organización Secuencial:</b>
 Además, los métodos de almacenamiento sobre los registros que el usuario final emplea siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la rapidez con la que se almacenan y acceden a ellos.
 
-`<b>`Esquemas de categorización de contenido:`</b>`
+<b>Esquemas de categorización de contenido:</b>
 Construction Systems contiene diferentes métodos de presentación de contenidos, ya que se recopilan distintas fuentes de información. Una de las categorías dedicadas es: por proyectos, donde se muestran los proyectos de Construction Systems,.
 
 ### 4.2.2. Labeling Systems
 
 Tenemos cuatro headings, ubicadas en el tope, que tienen la sección projects, messages, settings.
 
-`<b>`Projects:`</b>` Mostramos información de nuestros proyectos realizados.
+<b>Projects:</b> Mostramos información de nuestros proyectos realizados.
 
-`<b>`Messages:`</b>` Se muestra un canal de comunicación ante el usuario.
+<b>Messages:</b> Se muestra un canal de comunicación ante el usuario.
 
-`<b>`Settings:`</b>` Se muestra las opciones donde el usuario pueda configurar a su justo.
+<b>Settings:</b> Se muestra las opciones donde el usuario pueda configurar a su justo.
 
 Escogimos y colocamos estas en orden jerárquico y lo hemos presentado de esta forma para brindar a nuestros usuarios, la simplicidad de un landing page para encontrar información sobre nuestro servicio que brindamos.
 
@@ -706,6 +721,8 @@ Los usuarios podrán buscar dentro de los 2 apartados que tenemos la informació
 Como se mencionó, nuestro landing page está dividido en 3 headings, entre ellos Projects, Messages y Settings.
 En la sección “Projects” damos información de nuestros proyectos realizados, “Messages” muestra un canal donde exista una comunicación ante los usuarios, en “Settings”.
 
+<div style="page-break-after: always;"></div>
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
@@ -718,6 +735,8 @@ En la sección “Projects” damos información de nuestros proyectos realizado
 ![Alt text](Img/4l.png)
 ![Alt text](Img/5l.png)
 
+<div style="page-break-after: always;"></div>
+
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
@@ -728,6 +747,8 @@ En la sección “Projects” damos información de nuestros proyectos realizado
 <p align= Center>
 <img src="Img/UX2.png" width="700"/>
 </p>
+
+<div style="page-break-after: always;"></div>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -753,6 +774,8 @@ En la sección “Projects” damos información de nuestros proyectos realizado
 
 ![Alt text](Img/FlowDiagram.png)
 
+<div style="page-break-after: always;"></div>
+
 ## 4.5. Web Applications Prototyping
 
 Microsoft Stream Prototype Video Link: https://web.microsoftstream.com/video/368499d6-1582-4bb1-9e4c-93daf05793a7
@@ -761,17 +784,25 @@ Microsoft Stream Prototype Video Link: https://web.microsoftstream.com/video/368
 
 Como parte del proceso de arquitectura de Construction Systems, se ha utilizado los diagramas C4 para este propósito, a continuación, se presenta la organización del sistema a través de este sistema.
 
+<div style="page-break-after: always;"></div>
+
 ### 4.6.1. Software Architecture Context Diagram
 
 ![Alt text](Img/Domain.png)
+
+<div style="page-break-after: always;"></div>
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 ![Alt text](Img/SwArchi.png)
 
+<div style="page-break-after: always;"></div>
+
 ### 4.6.3. Software Architecture Components Diagrams
 
 ![Alt text](Img/swCompo.png)
+
+<div style="page-break-after: always;"></div>
 
 ## 4.7. Software Object-Oriented Design
 
@@ -1020,6 +1051,8 @@ Teniendo en el index el código del landing page
 
 ![Alt text](Img/indexgit.jpg)
 
+<div style="page-break-after: always;"></div>
+
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
@@ -1089,6 +1122,8 @@ Este enlace permite que cualquier persona acceda y explore nuestro landing page 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+<div style="page-break-after: always;"></div>
 
 ### 5.2.2. Sprint 2
 
