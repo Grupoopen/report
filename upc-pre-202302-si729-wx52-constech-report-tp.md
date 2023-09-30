@@ -1096,6 +1096,25 @@ Este enlace permite que cualquier persona acceda y explore nuestro landing page 
 
 Ismael
 
+#### 5.2.2.1. Sprint Planning 2 
+En este primer sprint planning como equipo, nos reunimos para coordinarnos y comenzar con la elaboración de nuestro proyecto. 
+
+|   |   |
+|---|---|
+| **Sprint Planning Backgroung** |   |
+| Fecha | 21-09-2023 |
+| Hora | 19:00 pm |
+| Ubicación | Discord |
+| Preparado por | Ismael Sebastian Zamora Rivera |
+| Asistentes (a la reunión de planificación) |   |
+| **Resumen del Sprint 1-1** | Siendo nuestro primer sprint planning, revisamos los aspectos a considerar que debe tener nuestro producto. |
+| **Resumen retrospectivo del Sprint 1-1** | Como equipo, llegamos a la conclusión de que nuestra metodología de trabajo necesita ser más organizada. Acordamos tener horarios fijos de reunión y asignaciones específicas para cada uno. |
+| **Objetivo del Sprint & Historias de Usuario** |   |
+| Objetivo del Sprint 1 | Durante este Sprint, nuestro objetivo es implementar y lanzar la página de inicio. Para lograr este objetivo, trabajaremos juntos para codificar el HTML, CSS y JavaScript. |
+| Velocidad del Sprint 1 | Dos semanas |
+| Suma de puntos de historia | 0 |
+
+
 #### 5.2.2.2. Sprint Backlog 2
 
 | Sprint #   | Sprint 2                            |                  |                                               |                                                                                                                                                                                      |            |                            |        |
@@ -1132,8 +1151,11 @@ A continuación se muestran los commits del repositorio Report
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+![Alt text](<Img/Deploy.jpg>)
+#### 5.2.2.8. Team Collaboration Insights during Sprint 
+![Alt text](Img/insight.png)
+![Alt text](Img/network.png)
 
-Enrique
 
 ## 5.3. Validation Interviews.
 
