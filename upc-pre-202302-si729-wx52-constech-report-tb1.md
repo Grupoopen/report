@@ -1085,6 +1085,8 @@ A continuación se muestran los commits del repositorio Report
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review 
 
+
+![Alt text](<Img/Deploy.jpg>)
 #### 5.2.2.8. Team Collaboration Insights during Sprint 
 Enrique
 
