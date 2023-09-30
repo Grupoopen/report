@@ -1035,6 +1035,17 @@ Este enlace permite que cualquier persona acceda y explore nuestro landing page 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2 
+#### 5.2.2.2. Sprint Backlog 2
+#### 5.2.2.3. Development Evidence for Spring Review 
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review 
+#### 5.2.2.5. Execution Evidence for Sprint Review 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review 
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review 
+#### 5.2.2.8. Team Collaboration Insights during Sprint 
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
