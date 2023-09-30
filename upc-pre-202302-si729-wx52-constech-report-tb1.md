@@ -1088,7 +1088,7 @@ A continuación se muestran los commits del repositorio Report
 
 ![Alt text](<Img/Deploy.jpg>)
 #### 5.2.2.8. Team Collaboration Insights during Sprint 
-Enrique
+![Alt text](image-1.png)
 
 ## 5.3. Validation Interviews.
 
