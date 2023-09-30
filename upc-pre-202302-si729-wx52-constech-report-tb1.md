@@ -1067,9 +1067,9 @@ Ismael
 |     UC05    | Buscar un proyecto                  |        WI09       |    Desarrollo de la lista de proyectos    |                   Desarrollo de una función para mostrar una lista de proyectos disponibles en la plataforma, con detalles como título, descripción y ubicación.                  |   8 horas   | Cristian Orosco           |   Done  |
 |    UCD05    | Agregar mi proyecto a la plataforma |       WI010       |    Desarrollo de la pantalla de Tareas    | Desarrollo de una pantalla que permitirá a los usuarios administrar y dar seguimiento a las tareas relacionadas con sus proyectos, incluyendo la creación y asignación de tareas. |   8 horas   | Josue Carrasco Hernándezi |   Done  |
 #### 5.2.2.3. Development Evidence for Spring Review 
-Erick
+![Alt text](Img/CommitsFront.jpg)
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review 
-Erick
+
 #### 5.2.2.5. Execution Evidence for Sprint Review 
 ![Alt text](Img/login2.png)
 ![Alt text](Img/signup.png)
@@ -1081,7 +1081,7 @@ Erick
 ![Alt text](Img/jsonService.png)
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review 
-Enrique
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint 
 Enrique
 
