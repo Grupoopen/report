@@ -1218,6 +1218,8 @@ En este sprint se busca esencialmente hacer la implementación del Backend y la 
 | Velocidad del Sprint 1 | Definir el Velocity establecido para el Sprint 3, es decir cuántos Story Points puede aceptar el equipo para este Sprint 3.|
 | Suma de puntos de historia | Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint 3 |
 
+<div style="page-break-after: always;"></div>
+
 #### 5.2.3.2. Sprint Backlog 3
 
 |     Sprint #       |     Sprint 3                             |                          |                                                           |                                                                            |                    |                     |                |
@@ -1241,6 +1243,7 @@ En este sprint se busca esencialmente hacer la implementación del Backend y la 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
 
+<div style="page-break-after: always;"></div>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
