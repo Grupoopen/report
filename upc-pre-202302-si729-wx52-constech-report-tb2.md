@@ -1200,8 +1200,28 @@ A continuación se muestran los commits del repositorio Report
 ### 5.2.3. Sprint 3
 
 #### 5.2.3.1. Sprint Planning 3
+En este sprint se busca esencialmente hacer la implementación del Backend y la creación de nuestra base de datos. Esto se logrará a partir de los artefactos previamente establecidos y desarrollados en las clases. Así mismo, para la codificación e implementación del código se utilizará GitHub y se emplea GitFlow como workflow para mantener una estructura y flujo de trabajo conforme a lo establecido.
+
+
+
+|  Sprint# | Sprint3   |
+|---|---|
+| **Sprint Planning Backgroung**   |
+| Fecha | 01-11-2023 |
+| Hora | 19:00 pm |
+| Ubicación | Discord |
+| Preparado por | Enrique Aldhair Llatas Flores |
+| Asistentes (a la reunión de planificación) |   |
+| **Resumen del Sprint 1-1** | Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.. |
+| **Resumen retrospectivo del Sprint 1-1** |Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo |
+| **Objetivo del Sprint & Historias de Usuario** |   |
+| Objetivo del Sprint 3 |Definir el Goal del Sprint n y la métrica de cumplimiento. |
+| Velocidad del Sprint 1 | Definir el Velocity establecido para el Sprint 3, es decir cuántos Story Points puede aceptar el equipo para este Sprint 3.|
+| Suma de puntos de historia | Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint 3 |
 
 #### 5.2.3.2. Sprint Backlog 3
+Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint y a continuación presente un screenshot del Board para el Sprint en la herramienta de control indicada (por ejemplo Trello), junto con el URL público del Board. A continuación, debe incluir una tabla donde se especifique los User Stories asignados al Sprint, junto con los Work-items/Tasks resultantes de la descomposición de los User Stories o Tasks adicionales que no dependen de un User Story en particular (por ejemplo, un task que debe realizarse para satisfacer un constraint general).GitFlow como workflow para mantener una estructura y flujo de trabajo conforme a lo establecido
+
                                                                                             
 #### 5.2.3.3. Development Evidence for Spring Review
 
