@@ -1258,7 +1258,11 @@ En este sprint se busca esencialmente hacer la implementación del Backend y la 
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint 
+![Alt text](image-1.png)
 
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
 
 ## 5.3. Validation Interviews.
 
