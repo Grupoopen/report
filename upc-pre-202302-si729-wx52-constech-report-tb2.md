@@ -21,7 +21,6 @@
 *<p style="text-align: center;">Doig Apostol, Andrés - U201712256</p>*
 *<p style="text-align: center;">Llatas Flores, Enrique Aldhair - U20201F172</p>*
 *<p style="text-align: center;">Carrasco Hernández, Florentino Josue - U202020727</p>*
-*<p style="text-align: center;">Cueva Elera, Erick Armando - U201910151</p>*
 *<p style="text-align: center;">Zamora Rivera, Ismael Sebastián - U202116671</p>*
 
 <br>
