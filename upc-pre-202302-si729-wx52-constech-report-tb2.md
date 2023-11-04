@@ -21,7 +21,6 @@
 *<p style="text-align: center;">Doig Apostol, Andrés - U201712256</p>*
 *<p style="text-align: center;">Llatas Flores, Enrique Aldhair - U20201F172</p>*
 *<p style="text-align: center;">Carrasco Hernández, Florentino Josue - U202020727</p>*
-*<p style="text-align: center;">Cueva Elera, Erick Armando - U201910151</p>*
 *<p style="text-align: center;">Zamora Rivera, Ismael Sebastián - U202116671</p>*
 
 <br>
@@ -1220,14 +1219,20 @@ En este sprint se busca esencialmente hacer la implementación del Backend y la 
 | Suma de puntos de historia | Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint 3 |
 
 #### 5.2.3.2. Sprint Backlog 3
-Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint y a continuación presente un screenshot del Board para el Sprint en la herramienta de control indicada (por ejemplo Trello), junto con el URL público del Board. A continuación, debe incluir una tabla donde se especifique los User Stories asignados al Sprint, junto con los Work-items/Tasks resultantes de la descomposición de los User Stories o Tasks adicionales que no dependen de un User Story en particular (por ejemplo, un task que debe realizarse para satisfacer un constraint general).GitFlow como workflow para mantener una estructura y flujo de trabajo conforme a lo establecido
 
-
+|     Sprint #       |     Sprint 3                             |                          |                                                           |                                                                            |                    |                     |                |
+|--------------------|------------------------------------------|--------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------|--------------------|---------------------|----------------|
+|     User Story     |                                          |     Work-Item / Task     |                                                           |                                                                            |                    |                     |                |
+|     id             |     Title                                |     id                   |     Title                                                 |     Description                                                            |     Estimation     |     Assigned To     |     Status     |
+|     CSLP           |     Implementar el backend               |     W108                 |     Desarrollo de las funciones del backend               |     Desarrollo de la implementación del backend al proyecto                |     3 horas        |                     |     Done       |
+|     CSLP           |     Implementar funciones del backend    |     W108                 |     Desarrollo de la funcionalidad   del backend          |     Desarrollo e implementación de las funciones realizadas por el back    |     3 horas        |                     |     Done       |
                                                                                             
 #### 5.2.3.3. Development Evidence for Spring Review
 ![Alt text](Img/projectGet.png)
 
 ![Alt text](Img/projectPost.png)
+
+![Alt text](Img/sprint3evidence.jpg)
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
