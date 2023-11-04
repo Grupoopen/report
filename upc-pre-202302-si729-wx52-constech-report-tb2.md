@@ -1221,9 +1221,20 @@ En este sprint se busca esencialmente hacer la implementación del Backend y la 
 
 #### 5.2.3.2. Sprint Backlog 3
 Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint y a continuación presente un screenshot del Board para el Sprint en la herramienta de control indicada (por ejemplo Trello), junto con el URL público del Board. A continuación, debe incluir una tabla donde se especifique los User Stories asignados al Sprint, junto con los Work-items/Tasks resultantes de la descomposición de los User Stories o Tasks adicionales que no dependen de un User Story en particular (por ejemplo, un task que debe realizarse para satisfacer un constraint general).GitFlow como workflow para mantener una estructura y flujo de trabajo conforme a lo establecido
+| Sprint #   | Sprint 3                            |                  |                                               |                                                                                                                                                                                      |            |                            |        |
+| ---------- | ----------------------------------- | ---------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | -------------------------- | ------ |
+| User Story |                                     | Work-Item / Task |                                               |                                                                                                                                                                                      |            |                            |        |
+| id         | Title                               | id               | Title                                         | Description                                                                                                                                                                          | Estimation | Assigned To                | Status |
+| UCD01      | Registro como Empresa               | WI06             | Create Project Constech.API “Registro”        | Crear el proyecto EventXplorer.API en nuestro repositorio de GitHub.                         |1 hora    | AndrésDoigApostol         | Done   |
+| UCD02      | Reporte de bugs        | WI07             | Desarrollo de la api | En el backEnd se implementó los servicios, controladores, modelo y repository | 3 horas    | Ismael Sebastián Zamora Rivera  | Done   |
+| UCD11      | Tabla Projects       | WI08             | Desarrollo del la tabla projects          |Se implementó los servicios, controladores, excepciones, modelo            | 6 horas    | Enrique Aldhair Llatas Flores | Done   |
+| UC05       | Desarrollo de la tabla Ingenieros                 | WI09             |Se implementó los servicios, controladores, excepciones, modelo                                   | 8 horas    | Josue Carrasco Hernándezi        | Done   |
 
                                                                                             
 #### 5.2.3.3. Development Evidence for Spring Review
+![Alt text](Img/projectGet.png)
+
+![Alt text](Img/projectPost.png)
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
@@ -1233,6 +1244,15 @@ Una sección de Sprint Backlog debe iniciar con una introducción que resuma el 
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+|  EndPoint | Explicación del response   |
+|---|---|
+| **POST http://localhost:8040/projects**   | createProject: Este EndPoint utiliza el método POST para agregar proyectos al API.
+| **Get http://localhost:8040/projects**   | GetProject: Este EndPoint utiliza el método Get para extraer los proyectos del API.
+| ****   | 
+| |
+||
+
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
