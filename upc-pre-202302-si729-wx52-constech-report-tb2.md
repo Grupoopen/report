@@ -1356,6 +1356,22 @@ Se trata la siguiente información:
 - Las funciones son necesarias.
 - Le gustaría que haya un logotipo e información del que ha ingresado.
 
+
+**Entrevistado 2:**
+- **Nombre:** Juan Diego Ponce Arasaki
+- **Edad:** 20 años
+- **Distrito:** Ancon
+[Alt text](Img/Llamada.png)
+- **Enlace al video:** [Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f172_upc_edu_pe/EX5L4AE9uINEphNXClUWGm4BaJncSi4l_ErgKV4p2HOklA?e=mw1rxF )
+
+
+Se trata la siguiente información:
+- Considera que la interfaz es amigable.
+- Considera que la aplicacion satisface sus necesidades.
+- Las funciones son necesarias.
+- Por el momento no desea alguna nueva funcion.
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 **SITE o APP A EVALUAR:**
