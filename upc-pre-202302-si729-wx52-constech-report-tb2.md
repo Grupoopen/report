@@ -1264,6 +1264,31 @@ En este sprint se busca esencialmente hacer la implementación del Backend y la 
 
 ![Alt text](image-3.png)
 
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+#### 5.2.4.2. Sprint Backlog 4
+
+                                                                                       
+#### 5.2.4.3. Development Evidence for Spring Review
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint 
+
+
+
 ## 5.3. Validation Interviews.
 
 ### 5.3.1. Diseño de Entrevistas.
@@ -1278,7 +1303,18 @@ En este sprint se busca esencialmente hacer la implementación del Backend y la 
 
 # Conclusiones
 
+
 ## Conclusiones y recomendaciones
+
+- Angular proporciona una estructura eficiente y un conjunto completo de herramientas para el desarrollo de interfaces de usuario modernas y atractivas, lo que permite a los desarrolladores crear aplicaciones web de forma rápida y eficiente.
+
+- Con Angular y Spring Boot, se puede seguir el patrón de arquitectura MVC (Model-View-Controller), lo que permite una separación clara entre el frontend y el backend del proyecto. Esto facilita la reutilización de componentes y módulos, y mejora la mantenibilidad y escalabilidad del sistema.
+
+- La comunicación entre el frontend y el backend se realiza a través de API RESTful, lo que proporciona una forma estándar y eficiente de intercambiar datos entre ambos. Spring Boot en Java facilita la creación de estas API, ofreciendo un amplio conjunto de herramientas para la gestión y manipulación de los datos.
+
+- Tanto Angular como Spring Boot ofrecen diferentes mecanismos para garantizar la seguridad de la aplicación. Angular cuenta con módulos específicos para autenticación y autorización, mientras que Spring Boot ofrece funcionalidades de seguridad integradas, como autenticación basada en roles, cifrado de contraseñas y protección contra ataques comunes.
+
+- Tanto Angular como Spring Boot se basan en tecnologías sólidas y eficientes, lo que permite que las aplicaciones desarrolladas sean altamente escalables y puedan manejar un gran número de usuarios y transacciones simultáneas. Además, ambos proporcionan opciones de optimización de rendimiento, como el almacenamiento en caché y la compresión de recursos.
 
 ## Video About-the-Team
 
