@@ -39,11 +39,25 @@
 
 # Student Outcome
 
-|    <br>Criterio específico                                                                                                                                                                            	|    <br>Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	|    <br>Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           	|
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-|    <br>Comunica   oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades   y niveles jerarquicos, en el marco del desarrollo de un proyecto en   ingeniería.       	|    <br>Doig   Apostol, Andrés <br>TB1<br><br>Como Team Leader he   organizado y me he comunicado con mis companeros de trabajo. Para esta   entrega se realizó el planteamiento del startup y sus reglas de negocio, para   poder brindar el mejor servicio a nuestros segmentos   objetivos.<br><br> Doig Apostol, Andrés   <br>TP<br><br>Para esta entrega se avanzaron las vistas del   front-end.<br><br>Cueva Elera, Erick   Armando<br>TB1<br><br>Asistencia a las reuniones realizadas   para la definición del proyecto a desarrollar.<br>   <br>Carrasco Hernández,   Florentino<br>   TB1:<br>    Debatimos sobre el rumbo de nuestra aplicación   web y planificamos el sprint planning, sprint backlog y avance del proyecto   utilizando lenguaje claro y objetivo.<br>   TP:<br>   Realicé una presentación oral ante el curso sobre el   progreso del proyecto, explicando los requerimientos, diseño e implementación   actual utilizando un lenguaje adecuado para la audiencia.   TB2:<br>   Presenté los nuevos avances del proyecto a mis   compañeros, comunicando de forma clara y concisa la   funcionalidad desarrollada y próximos pasos.   TF:<br>   Realicé la presentación final ante un jurado,   comunicando de forma efectiva los objetivos, desarrollo e impacto del   proyecto.                               	|    <br>Doig   Apostol, Andrés<br>TB1<br><br>Es importante una comunicación   clara y efectiva para poder trabajar las diferentes ideas que uno tiene.<br>   <br>Carrasco Hernández, Florentino<br>   En conclusión, a lo largo del desarrollo del proyecto pude presentar con mi   equipo oralmente y de forma objetiva el progreso y resultados ante distintas   audiencias como mi equipo de trabajo y profesor. Esto me permitió comunicar   efectivamente las ideas y estado actual en los diferentes hitos del proyecto.                                 	|
-|    <br>Comunica   en forma escrita ideas y/o resultados con objetividad a público de diferentes   especialidades y niveles jerarquicos, en el marco del desarrollo de un   proyecto en ingeniería.    	|    <br>Doig Apostol,   Andrés<br>TB1<br><br>Aplicamos lo aprendido durante los   cursos anteriores y adicionalmente lo que nos explicó el profe en este curso   para poder trabajar un planteamiento de nuestro proyecto de manera exitosa.   <br><br> Doig Apostol,   Andrés<br>TP<br><br>Hemos aplicado lo aprendido y además   investigado por nuestra parte para poder completar esta entrega.<br><br>Cueva   Elera, Erick Armando<br>TB1<br><br>`Desarrollo del   capitulo 2 del informe.<br>   <br>   Carrasco Hernández, Florentino<br>   TB1:<br>   Elaboré informes escritos   concisos sobre el entregable, principios de la start up, competidores, sprint   backlog y el progreso actual que permitieron comunicar objetivamente el   estado del proyecto. <br>   TP:<br>   Presenté mi parte de la versión actualizada del informe del proyecto con   mayor detalle técnico sobre análisis de requerimientos y diseño para revisión   del curso.<br>   TB2:<br>   En los informes escritos incorporé descripciones claras y objetivas sobre las   nuevas funcionalidades implementadas para permitir seguimiento adecuado del   proyecto.<br>   TF:<br>   Elaboré parte del informe final del proyecto detallando objetivamente todos   los aspectos del desarrollo y cumplimiento de los objetivos planteados   inicialmente.    	|    <br>Doig   Apostol, Andrés<br>TB1<br><br>Una escritura clara en la   documentación ayuda el entendimiento para todo tipo de público/lector.<br>   <br>Carrasco Hernández, Florentino<br>   En conclusión, elaboré informes escritos en los distintos hitos del proyecto   comunicando de forma objetiva y con el nivel de detalle adecuado para cada   público, la documentación técnica del análisis de requerimientos, diseño,   implementación y resultados finales. Esto facilitó el seguimiento y   evaluación del proyecto por distintos actores.    	|
-|                                                                                                                                                                                                       	|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                	|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	|
+| Criterio específico | Acciones realizadas | Conclusiones |
+| -------------------- | -------------------- | ------------ |
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | | |
+| Doig Apostol, Andrés (TB1) | Como Team Leader, organicé y me comuniqué con mis compañeros de trabajo. En esta entrega se planteó el startup y sus reglas de negocio. | Es importante una comunicación clara y efectiva para trabajar con diferentes ideas. |
+| Doig Apostol, Andrés (TP) | Se avanzaron las vistas del front-end. | |
+| Cueva Elera, Erick Armando (TB1) | Asistencia a reuniones para la definición del proyecto. | |
+| Carrasco Hernández, Florentino (TB1) | Debatió sobre el rumbo del proyecto y planificó sprint planning, backlog y avance utilizando un lenguaje claro. | Presentó avances del proyecto a compañeros, comunicando de forma clara y concisa. En la presentación final ante un jurado, comunicó efectivamente los objetivos, desarrollo e impacto del proyecto. |
+| Carrasco Hernández, Florentino (TP) | Realizó una presentación oral ante el curso sobre el progreso del proyecto, explicando requerimientos, diseño e implementación. | |
+| Carrasco Hernández, Florentino (TB2) | Presentó los nuevos avances del proyecto a sus compañeros, comunicando de forma clara y concisa la funcionalidad desarrollada y próximos pasos. | |
+| Carrasco Hernández, Florentino (TF) | Realizó la presentación final ante un jurado, comunicando de forma efectiva los objetivos, desarrollo e impacto del proyecto. | A lo largo del desarrollo del proyecto, presentó oralmente y de forma objetiva el progreso y resultados ante distintas audiencias. Esto permitió comunicar efectivamente las ideas y el estado actual en los diferentes hitos del proyecto. |
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | | |
+| Doig Apostol, Andrés (TB1) | Aplicaron lo aprendido durante los cursos anteriores y lo explicado en este curso para trabajar un planteamiento exitoso del proyecto. | Una escritura clara en la documentación facilita el entendimiento para todo tipo de público/lector. |
+| Doig Apostol, Andrés (TP) | Aplicaron lo aprendido e investigaron por su cuenta para completar la entrega. | |
+| Cueva Elera, Erick Armando (TB1) | Desarrollo del capítulo 2 del informe. | |
+| Carrasco Hernández, Florentino (TB1) | Elaboró informes escritos concisos sobre el entregable, principios de la startup, competidores, sprint backlog y el progreso actual. | Elaboró informes escritos en los distintos hitos del proyecto, comunicando de forma objetiva y con el nivel de detalle adecuado para cada público. |
+| Carrasco Hernández, Florentino (TP) | Presentó su parte de la versión actualizada del informe del proyecto con mayor detalle técnico sobre análisis de requerimientos y diseño. | |
+| Carrasco Hernández, Florentino (TB2) | Incorporó descripciones claras y objetivas sobre las nuevas funcionalidades implementadas en los informes escritos. | |
+| Carrasco Hernández, Florentino (TF) | Elaboró parte del informe final del proyecto detallando objetivamente todos los aspectos del desarrollo y cumplimiento de los objetivos. | Facilitó el seguimiento y evaluación del proyecto por distintos actores. |
+
 
 <div style="page-break-after: always;"></div>
 
@@ -1297,9 +1311,100 @@ En este sprint se busca esencialmente hacer la implementación del Backend y la 
 
 ### 5.3.1. Diseño de Entrevistas.
 
+- ¿Cómo describirías tu experiencia general al navegar por el sitio web?
+- ¿Encuentras la información que buscas de manera fácil y rápida?
+- ¿Hay algo que realmente te guste del sitio web?
+- ¿Encuentras fácil navegar por las diferentes secciones del sitio?
+- ¿Hay algún contenido que sientas que falta en el sitio?
+- ¿Las funciones interactivas (formularios, botones, etc.) funcionan como esperas?
+- ¿El sitio web carga rápido y funciona sin problemas?
+- ¿Hay algo que cambiarías o mejorarías?
+- ¿Recomendarías esta aplicación a otras personas?
+
 ### 5.3.2. Registro de Entrevistas.
 
+**Entrevistado 1:**
+- **Nombre:** Agustin Rorr
+- **Edad:** 21 años
+- **Distrito:** Callao
+[Alt text](Img/entrevista-validacion-1.JPG)
+- **Enlace al video:** [Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202020727_upc_edu_pe/ERBPxxD-A-hJvOI0hz-FwucBPfmcIO4Y7igp3Rj9UvcvFg?e=ZymrwP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mi4xOH19)
+
+
+Se trata la siguiente información:
+- Considera que la interfaz es amigable.
+- Considera que el color es llamativo.
+- Las funciones son necesarias.
+- Le gustaría que haya un logotipo e información del que ha ingresado.
+
 ### 5.3.3. Evaluaciones según heurísticas.
+
+**SITE o APP A EVALUAR:**
+Constech
+
+**Tareas a evaluar:**
+1. Visualización de tareas
+2. Visualización de Lista
+3. Visualización de Compañías
+4. Visualización de Proyectos
+5. Agregar información
+6. Modificar información
+7. Eliminar información
+8. Crear cuenta
+9. Logearse
+
+No está incluida en esta versión de la evaluación las siguientes tareas:
+- Perfil
+
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad.
+
+| Nivel 	| Descripción                                                                                                                                                                                        	|
+|-------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| 1     	| Problema superficial: Puede ser fácilmente superador por el usuario o sucede con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                      	|
+| 2     	| Problema menor: Puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente lanzamiento 	|
+| 3     	| Problema mayor: Ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                    	|
+| 4     	| Problema muy grave: Un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                  	|
+
+**TABLA RESUMEN:**
+
+Explain
+| # 	|                          Problema                         	| Escala de severidad 	| Heurística/Principio violada(o) 	|
+|:-:	|:---------------------------------------------------------:	|:-------------------:	|:-------------------------------:	|
+| 1 	| No se puede visualizar los datos de la tabla              	|          5          	| Libertad y control del usuario  	|
+| 2 	| El propio usuario no puede eliminar los datos que ingreso 	|          3          	| Libertad y control del usuario  	|
+| 3 	| El propio usuario no puede editar los datos que ingreso   	|          2          	| Libertad y control del usuario  	|
+
+**PROBLEMA #1**
+- **Severidad:** 5
+- **Heurística violada:** Usabilidad - Libertad y control del usuario
+
+**Problema:**
+Al ingresar a la aplicación web, algunos datos no se muestran.
+
+**Recomendación:**
+Editar correctamente los servicios para que se puedan ver los post de los datos.
+
+**PROBLEMA #2**
+- **Severidad:** 3
+- **Heurística violada:** Usabilidad - Libertad y control del usuario
+
+**Problema:**
+Algunas tareas no se pueden eliminar.
+
+**Recomendación:**
+Ajustar los servicios de delete en algunas pantallas.
+
+**PROBLEMA #3**
+- **Severidad:** 2
+- **Heurística violada:** Usabilidad - Libertad y control del usuario
+
+**Problema:**
+Proyectos no pueden editar sus datos.
+
+**Recomendación:**
+Crear una función de update para que se puedan editar.
+
 
 ## 5.4. Video About-the-Product.
 
