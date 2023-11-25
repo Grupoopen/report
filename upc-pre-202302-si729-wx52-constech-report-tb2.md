@@ -1476,7 +1476,7 @@ Recomendaciones
 
 ## Video About-the-Team
 
-
+Link del video About-The-Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201712256_upc_edu_pe/ETJrDFFZ7GtIrPPQYvwLO5EB_mYqadk24kyy10r80j1EBQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=dVe5Yv 
 
 <div style="page-break-after: always;"></div>
 
