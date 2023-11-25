@@ -1414,6 +1414,22 @@ Se trata la siguiente información:
 - Las funciones son necesarias.
 - Le gustaría que haya un logotipo e información del que ha ingresado.
 
+
+**Entrevistado 2:**
+- **Nombre:** Juan Diego Ponce Arasaki
+- **Edad:** 20 años
+- **Distrito:** Ancon
+[Alt text](Img/Llamada.png)
+- **Enlace al video:** [Enlace al video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f172_upc_edu_pe/EX5L4AE9uINEphNXClUWGm4BaJncSi4l_ErgKV4p2HOklA?e=mw1rxF )
+
+
+Se trata la siguiente información:
+- Considera que la interfaz es amigable.
+- Considera que la aplicacion satisface sus necesidades.
+- Las funciones son necesarias.
+- Por el momento no desea alguna nueva funcion.
+
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 **SITE o APP A EVALUAR:**
@@ -1518,7 +1534,7 @@ Recomendaciones
 
 ## Video About-the-Team
 
-
+Link del video About-The-Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201712256_upc_edu_pe/ETJrDFFZ7GtIrPPQYvwLO5EB_mYqadk24kyy10r80j1EBQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=dVe5Yv 
 
 <div style="page-break-after: always;"></div>
 
