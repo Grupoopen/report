@@ -1206,16 +1206,26 @@ A continuación se muestran los commits del repositorio Report
 <div style="page-break-after: always;"></div>
 
 # Conclusiones
+1. Construction Systems ha identificado de manera precisa las necesidades críticas en el sector de la construcción y ha diseñado Constech como una solución integral. La atención a la gestión estratégica, la comunicación en tiempo real y la transparencia en los proyectos muestra una comprensión profunda de los desafíos que enfrentan los ingenieros y empresarios en el ámbito industrial.
 
+2. Las metas ambiciosas y bien definidas para el primer semestre y el primer año reflejan una estrategia clara para el crecimiento y la sostenibilidad financiera de la startup. La expansión internacional, junto con la adaptabilidad para usuarios jóvenes entre 20 y 35 años, demuestra una visión a largo plazo y un enfoque en la evolución continua de Constech para satisfacer las demandas cambiantes del mercado.
 ## Conclusiones y recomendaciones
+1. Considerando la sensibilidad de la información en el sector industrial, asegúrense de implementar medidas sólidas de seguridad y privacidad de datos desde el principio. Obtener certificaciones de seguridad y realizar auditorías regulares puede aumentar la confianza de los usuarios y garantizar la integridad de la plataforma.
 
+2. Enfóquense en una estrategia de marketing digital efectiva para alcanzar su objetivo de usuarios y empresas registradas. La creación de contenido relevante, la participación en redes profesionales y la colaboración con líderes de opinión en la industria pueden ser tácticas clave para aumentar la visibilidad y la adopción de Constech en el mercado peruano y más allá.
 ## Video About-the-Team
 
 <div style="page-break-after: always;"></div>
 
 # Bibliografía
+Gordillo, V. (2014). Evaluación de la gestión de proyectos en el sector construcción del Perú. Tesis de Master en Diseño, Gestión y Dirección de Proyectos. Universidad de Piura. Facultad de Ingeniería. Piura, Perú. Recuperado de: https://monday.com/lang/es/lp/project-management/?utm_medium=cpc&utm_source=binglocals&utm_campaign=latam-es-prm-workos-project-project_management-h-search-desktop-core-bing&utm_adgroup=project%20management%20phrase&utm_content=gestion%20de%20proyectos&utm_keyword=gestion%20de%20proyectos&utm_match_type=p&utm_bid_match_type=bp&utm_vertical=o&cluster=&subcluster=&ati=&msclkid=8aedb1e30c29196417ead48287c6c11d [Consulta: 14 de Setiembre de 2023]
+
+Gestión de Proyectos: origen, instituciones, metodologías, estándares y certificaciones. Entre Ciencia e Ingeniería vol.12 no.24 Pereira July/Dec. 2018. Recuperado de: http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1909-83672018000200068 [Consulta: 14 de Setiembre de 2023]
+
+Henriquez, P., & Lacaze, L. (2021). BIM: ¿Qué tan digitalizada está la industria de la construcción en la región? Recuperado de: https://blogs.iadb.org/innovacion/es/bim-que-tan-digitalizada-esta-la-industria-de-la-construccion-en-la-region/ [Consulta: 14 de Setiembre de 2023]
 
 <div style="page-break-after: always;"></div>
+
 
 # Anexos
 
