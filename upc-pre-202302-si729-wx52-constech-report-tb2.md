@@ -1357,3 +1357,5 @@ Henriquez, P., & Lacaze, L. (2021). BIM: ¿Qué tan digitalizada está la indust
 - Link del repositorio del Landing Page: https://github.com/Grupoopen/Landing
 
 - Link del repositorio del WebApp con Angular: https://github.com/Grupoopen/constech-web-app
+
+- Link del repositorio del Backend con Spring Boot y Java: https://github.com/Grupoopen/constech-backend
