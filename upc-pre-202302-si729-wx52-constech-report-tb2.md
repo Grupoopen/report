@@ -1162,10 +1162,6 @@ Este enlace permite que cualquier persona acceda y explore nuestro landing page 
 
 ### 5.2.2. Sprint 2
 
-#### 5.2.2.1. Sprint Planning 2
-
-Ismael
-
 #### 5.2.2.1. Sprint Planning 2 
 En este primer sprint planning como equipo, nos reunimos para coordinarnos y comenzar con la elaboración de nuestro proyecto. 
 
@@ -1306,24 +1302,86 @@ En este sprint se busca esencialmente hacer la implementación del Backend y la 
 
 #### 5.2.4.1. Sprint Planning 4
 
-#### 5.2.4.2. Sprint Backlog 4
+|   |   |
+|---|---|
+| **Sprint Planning Backgroung** |   |
+| Fecha | 21-11-2023 |
+| Hora | 19:00 pm |
+| Ubicación | Discord |
+| Preparado por | Ismael Sebastian Zamora Rivera |
+| Asistentes (a la reunión de planificación) |   |
+| **Resumen del Sprint 1-4** | Siendo nuestro cuarto sprint planning, revisamos los aspectos a considerar que debe tener nuestro producto. |
+| **Resumen retrospectivo del Sprint 1-4** | Como equipo, llegamos a la conclusión de que debemos trabajar en el backend y hacer mejoras en el Frontend. |
+| **Objetivo del Sprint & Historias de Usuario** |   |
+| Objetivo del Sprint 4 | Durante este Sprint, nuestro objetivo es implementar el Backend |
+| Velocidad del Sprint 4 | Dos semanas |
+| Suma de puntos de historia | 8 |
 
+#### 5.2.4.2. Sprint Backlog 4
+| Sprint #                                                           	|     	| Sprint 5                                  	|                                                                                                                 	|                     	|              	|                                               	|
+|--------------------------------------------------------------------	|-----	|-------------------------------------------	|-----------------------------------------------------------------------------------------------------------------	|---------------------	|--------------	|-----------------------------------------------	|
+| User Story                                                         	|     	| Work-Item / Task                          	|                                                                                                                 	|                     	|              	|                                               	|
+| Title                                                              	| Id  	| Title                                     	| Description                                                                                                     	| Estimation (hours)  	| Assigned to  	| Status (To-do / InProcess / ToReview / Done)  	|
+| Como Usuario quiero que el aplicativo cuente con reglas de negocio 	| 18  	| Implementación de Security en el BackEnd  	| Como Usuario quiero que el aplicativo tenga seguridad para poder registrar mis datos sin temor.                 	| 5                   	| Enrique      	| Done                                          	|
+| Como Usuario quiero visualizar una Nav Bar                         	| 19  	| Implementación de mejorar a la NavBar     	| Como Usuario quiero que el aplicativo tenga una NavBar para poder navegar de manera ágil                        	| 4                   	| Josue        	| Done                                          	|
+| Como Usuario quiero visualizar mi toolbar                          	| 20  	| Implementaciónde un toolbar               	| Como Usuario quiero visualizar un toolbar para poder navegar por la app                                         	| 5                   	| Andres       	| Done                                          	|
+| Como Usuario quiero visualizar una nueva versión del FrontEnd      	| 21  	| Implementación de las mejoras al FrontEnd 	| Como Usuario quiero visualizar mejorar en el FrontEnd para poder navegar y sentirme cómodo usando el aplicativo 	| 6                   	| Ismael       	| Done                                          	|
                                                                                        
 #### 5.2.4.3. Development Evidence for Spring Review
+
+Para el presente sprint, se mostrarán los commit realizador en nuestros distintos repositorios, los cuales son: FrontEnd y Services. Estos commits tienen por objetivo mejorar el diseño y enlazar funcionalidades del FrontEnd con el BackEnd.
+
+|                   Repository                    	| Branch  	|                Commit ID                 	|             Commit Message             	| Commit Message Body  	| Commited on (Date)  	|
+|:-----------------------------------------------:	|:-------:	|:----------------------------------------:	|:--------------------------------------:	|:--------------------:	|:-------------------:	|
+| https://github.com/Grupoopen/constech-web-app   	| main    	| 8048bbd412fce5175200d1522d598ae222200177 	| Merge pull request                     	|                      	| 24/11/2023          	|
+| https://github.com/Grupoopen/constech-web-app   	| main    	| f24ea770643a194d048396a5c9d8515444df13d2 	| ompleted company bounded context front 	|                      	| 24/11/2023          	|
+| https://github.com/Grupoopen/constech-web-app   	| main    	| dbe87f284e721a916c2300f925752abc52e8fcb9 	| add db                                 	|                      	| 24/11/2023          	|
+| https://github.com/Grupoopen/constech-web-app   	| main    	| 4aaa6da146310978cba4e62a583b091544b029a0 	| fixr                                   	|                      	| 24/11/2023          	|
+|  https://github.com/Grupoopen/constech-backend  	| main    	| eace37480f722bbe119fa9f116dd6b0c9689a961 	| Update CompanyController.java          	|                      	| 23/11/2023          	|
+| https://github.com/Grupoopen/constech-backend   	| main    	| cc99a5d8006cf9e9d153ded2eabb9e442b9ff926 	| add existsByAssigned in task           	|                      	| 23/11/2023          	|
+| https://github.com/Grupoopen/constech-backend   	| main    	| 5dbe0a498c50ee28eb72438d61f76ed468a8b978 	| fix mapping bug                        	|                      	| 23/11/2023          	|
+| https://github.com/Grupoopen/constech-backend   	| main    	| 5dbe0a498c50ee28eb72438d61f76ed468a8b978 	| added company bounded context          	|                      	| 23/11/2023          	|
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
+Para esta última entrega hemos realizado mejorar al FrontEnd y BackEnd de nuestro aplicativo.
+Evidencia sobre FrontEnd:
+![Alt text](Img/evidence2.JPG) 
+![Alt text](Img/evidence1.JPG) 
+![Alt text](<Img/evidence 3.JPG>) 
+![Alt text](Img/evidence4.JPG)
+
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Evidencia del proyecto ejecutando:
+![Alt text](Img/evidence2.JPG)
+
+Evidencia del swagger:
+![Alt text](Img/evidence1.JPG)
+![Alt text](<Img/evidence 3.JPG>)
+
+Evidencia en PostMan:
+![Alt text](Img/evidence4.JPG)
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Landing Page deployada:
+![Alt text](Img/ladingD.JPG)
 
+Front End deployado:
+![Alt text](Img/webD.JPG)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint 
+Para el presente sprint, el equipo colaboró haciendo commits a nuestros diferentes repositorios, los cuales se evidencian a continuación:
 
+- **Repositorio de Web Services:**
+![Alt text](Img/collaboration-backend-sprint4.JPG)
+
+- **Repositorio de FrontEnd:**
+![Alt text](Img/collaboration-sprint4.JPG)
+ 
 
 
 ## 5.3. Validation Interviews.
