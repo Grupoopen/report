@@ -1306,6 +1306,8 @@ En este sprint se busca esencialmente hacer la implementación del Backend y la 
 
 ## Conclusiones y recomendaciones
 
+Conclusiones
+
 - Angular proporciona una estructura eficiente y un conjunto completo de herramientas para el desarrollo de interfaces de usuario modernas y atractivas, lo que permite a los desarrolladores crear aplicaciones web de forma rápida y eficiente.
 
 - Con Angular y Spring Boot, se puede seguir el patrón de arquitectura MVC (Model-View-Controller), lo que permite una separación clara entre el frontend y el backend del proyecto. Esto facilita la reutilización de componentes y módulos, y mejora la mantenibilidad y escalabilidad del sistema.
@@ -1316,11 +1318,31 @@ En este sprint se busca esencialmente hacer la implementación del Backend y la 
 
 - Tanto Angular como Spring Boot se basan en tecnologías sólidas y eficientes, lo que permite que las aplicaciones desarrolladas sean altamente escalables y puedan manejar un gran número de usuarios y transacciones simultáneas. Además, ambos proporcionan opciones de optimización de rendimiento, como el almacenamiento en caché y la compresión de recursos.
 
+Recomendaciones 
+
+1. Considerando la sensibilidad de la información en el sector industrial, asegúrense de implementar medidas sólidas de seguridad y privacidad de datos desde el principio. Obtener certificaciones de seguridad y realizar auditorías regulares puede aumentar la confianza de los usuarios y garantizar la integridad de la plataforma.
+
+2. Enfóquense en una estrategia de marketing digital efectiva para alcanzar su objetivo de usuarios y empresas registradas. La creación de contenido relevante, la participación en redes profesionales y la colaboración con líderes de opinión en la industria pueden ser tácticas clave para aumentar la visibilidad y la adopción de Constech en el mercado peruano y más allá.
+
+3. Enfoque en la Experiencia del Usuario (UX):
+   Considerando la importancia de la usabilidad en aplicaciones web, es crucial realizar pruebas exhaustivas de usuario durante el desarrollo de Constech. La retroalimentación de los usuarios, especialmente de aquellos en el grupo demográfico objetivo de 20 a 35 años, puede ofrecer perspectivas valiosas para mejorar la interfaz y la experiencia general. La inversión en un diseño centrado en el usuario puede garantizar que Constech no solo cumpla con las expectativas, sino que las supere, generando una base de usuarios leal.
+
+4. Implementación de Estrategias de Retención de Usuarios:
+   Dado que la retención de usuarios es esencial para el crecimiento sostenido, se recomienda desarrollar e implementar estrategias efectivas de retención. Esto puede incluir programas de fidelización, contenido educativo continuo sobre nuevas características, y la incorporación de características interactivas que mantengan a los usuarios comprometidos. La atención constante a las necesidades cambiantes de los usuarios y la adaptación proactiva de Constech en consecuencia asegurarán una retención sólida y un crecimiento continuo de la base de usuarios.
+
 ## Video About-the-Team
+
+
 
 <div style="page-break-after: always;"></div>
 
 # Bibliografía
+
+Gordillo, V. (2014). Evaluación de la gestión de proyectos en el sector construcción del Perú. Tesis de Master en Diseño, Gestión y Dirección de Proyectos. Universidad de Piura. Facultad de Ingeniería. Piura, Perú. Recuperado de: https://monday.com/lang/es/lp/project-management/?utm_medium=cpc&utm_source=binglocals&utm_campaign=latam-es-prm-workos-project-project_management-h-search-desktop-core-bing&utm_adgroup=project%20management%20phrase&utm_content=gestion%20de%20proyectos&utm_keyword=gestion%20de%20proyectos&utm_match_type=p&utm_bid_match_type=bp&utm_vertical=o&cluster=&subcluster=&ati=&msclkid=8aedb1e30c29196417ead48287c6c11d [Consulta: 14 de Setiembre de 2023]
+
+Gestión de Proyectos: origen, instituciones, metodologías, estándares y certificaciones. Entre Ciencia e Ingeniería vol.12 no.24 Pereira July/Dec. 2018. Recuperado de: http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1909-83672018000200068 [Consulta: 14 de Setiembre de 2023]
+
+Henriquez, P., & Lacaze, L. (2021). BIM: ¿Qué tan digitalizada está la industria de la construcción en la región? Recuperado de: https://blogs.iadb.org/innovacion/es/bim-que-tan-digitalizada-esta-la-industria-de-la-construccion-en-la-region/ [Consulta: 14 de Setiembre de 2023]
 
 <div style="page-break-after: always;"></div>
 
